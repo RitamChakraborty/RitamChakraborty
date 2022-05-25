@@ -1,9 +1,6 @@
-<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
-<img src="./assets/hello-light.gif#gh-dark-mode-only" align="right" height="220" width="210" />
-
-<h1>Ola Amigos!</h1>
-<h2>Me Ritam</h2>
-<h3>Nice to meet ya</h3>
+<img src="./assets/ola-amigos.gif" height="220">
+<img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
+<img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
 
 <br><br><br><br><br><br>
 
@@ -50,6 +47,17 @@ Drop me a <a href="mailto:mailbox.ritamchakraborty@gmail.com">mail</a>.
 <p align="center">
 <img src="./assets/cat-in-box.gif" height="250" width="250" />
 </p>
+
+<!-- # Ola Amigos!
+
+<p>
+  Me Ritam<br>
+  Nice to meet Ya!
+  <p align="right">
+    <img src="./assets/hello-dark.gif#gh-light-mode-only" alt="hello-dark" height="220" width="210" />
+    <img src="./assets/hello-light.gif#gh-dark-mode-only" alt="hello-light" height="220" width="210" />
+  </p>
+</p> -->
 
 
 <!-- ![thinking](https://c.tenor.com/Ji8vLfj669IAAAAi/thinking-goma.gif)
