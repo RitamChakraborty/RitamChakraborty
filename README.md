@@ -1,8 +1,23 @@
 <p align="center">
-  <img src="./assets/ola-amigos.gif" width="400">
-  <img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
-  <img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
+    <img src="./assets/ola-amigos-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/ola-amigos-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
+    <img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
 </p>
+
+<br>
+<hr>
+<br>
+
+<p align="center">
+    <img src="./assets/typing.gif" height="200" width="230" />
+    <img src="./assets/currently-typing-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/currently-typing-dark.gif#gh-dark-mode-only" width="400">
+</p>
+
+<br>
+<hr>
+
 
 <br><br><br><br><br><br>
 
