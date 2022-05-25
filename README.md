@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="./assets/ola-amigos-light.gif#gh-light-mode-only" width="400" hspace="70">
-    <img src="./assets/ola-amigos-dark.gif#gh-dark-mode-only" width="400" hspace="70">
+    <img src="./assets/ola-amigos-light.gif#gh-light-mode-only" width="400" hspace="120">
+    <img src="./assets/ola-amigos-dark.gif#gh-dark-mode-only" width="400" hspace="120">
     <img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
     <img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
 </p>
