@@ -1,6 +1,8 @@
-<img src="./assets/ola-amigos.gif" height="220">
-<img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
-<img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
+<p align="center">
+  <img src="./assets/ola-amigos.gif" height="150">
+  <img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
+  <img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
+</p>
 
 <br><br><br><br><br><br>
 
