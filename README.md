@@ -2,7 +2,7 @@
     <img src="./assets/ola-amigos-light.gif#gh-light-mode-only" width="400">
     <img src="./assets/ola-amigos-dark.gif#gh-dark-mode-only" width="400">
     <img src="./assets/hello-dark.gif#gh-light-mode-only" height="220" width="210" />
-    <img src="./assetsṭ/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
+    <img src="./assets/hello-light.gif#gh-dark-mode-only" height="220" width="210" />
 </p>
 
 <br>
