@@ -1,5 +1,5 @@
-<img src="https://c.tenor.com/Dr5sZCODJ50AAAAi/mochi-mochi-hello-grey-cat-mochi-mochi.gif#gh-light-mode-only" align="right" height="220" width="210" />
-<img src="https://c.tenor.com/ftqs42Yna-oAAAAj/mochi-mochi-hello-white-mochi-mochi.gif#gh-dark-mode-only" align="right" height="220" width="210" />
+<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+<img src="./assets/hello-light.gif#gh-dark-mode-only" align="right" height="220" width="210" />
 
 <h1>Ola Amigos!</h1>
 <h2>Me Ritam</h2>
@@ -7,7 +7,7 @@
 
 <br><br><br><br><br><br>
 
-<img src="https://c.tenor.com/-Fbyl7vqHiYAAAAi/goma-cat.gif" align="left" height="160" width="200" />
+<img src="./assets/typing.gif" align="left" height="160" width="200" />
 <h1 align ="right">Currently Typing</h1>
 <div align="right">
 <p>Java</p>
@@ -18,15 +18,15 @@
 
 <br>
 
-<img src="https://c.tenor.com/HrnzpVl5WMUAAAAj/peach-goma.gif" align="right" height="200" width="200" />
+<img src="./assets/smart.gif" align="right" height="200" width="200" />
 <h1>About Me</h1>
 
 - Jr. Product Specialist at Cognizant.
 - CS Graduate from Techno India University
 
-<br><br><br>
+<br><br><br><br><br>
 
-<img src="https://c.tenor.com/07iv8w7ql3gAAAAj/milktea.gif" align="left" height="200" width="200" />
+<img src="./assets/drink.gif" align="left" height="200" width="215" />
 <div align="right">
 <h1>Fun Fact</h1>
 <p>Bournvita is my favorite beverage.</p>
@@ -34,7 +34,7 @@
 
 <br><br><br><br><br><br><br>
 
-<img src="https://c.tenor.com/qlejSNNE55IAAAAj/tkthao219-bubududu.gif" align="right" height="200" width="180" />
+<img src="./assets/check-phone.gif" align="right" height="200" width="180" />
 
 <div align="left">
 <h1>Wanna Talk?</h1>
@@ -48,7 +48,7 @@ Drop me a <a href="mailto:mailbox.ritamchakraborty@gmail.com">mail</a>.
 
 <h1  align="center">Meow Meow</h1>
 <p align="center">
-<img src="https://c.tenor.com/iRn9h2dTMhcAAAAi/mochi-mochi-peach-cat-cat.gif" height="200" width="200" />
+<img src="./assets/cat-in-box.gif" height="250" width="250" />
 </p>
 
 
