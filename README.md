@@ -26,18 +26,22 @@
 
 <br><br><br>
 
-<img src="https://c.tenor.com/07iv8w7ql3gAAAAj/milktea.gif" align="right" height="200" width="200" />
+<img src="https://c.tenor.com/07iv8w7ql3gAAAAj/milktea.gif" align="left" height="200" width="200" />
+<div align="right">
 <h1>Fun Fact</h1>
-Bournvita is my favorite beverage.
+<p>Bournvita is my favorite beverage.</p>
+</div>
 
 <br><br><br><br><br><br><br>
 
-<img src="https://c.tenor.com/qlejSNNE55IAAAAj/tkthao219-bubududu.gif" align="left" height="200" width="180" />
+<img src="https://c.tenor.com/qlejSNNE55IAAAAj/tkthao219-bubududu.gif" align="right" height="200" width="180" />
 
-<h1 align="right">Wanna Talk?</h1>
-<p align="right">
+<div align="left">
+<h1>Wanna Talk?</h1>
+<p>
 Drop me a <a href="mailto:mailbox.ritamchakraborty@gmail.com">mail</a>.
 </p>
+</div>
 
 <br><br><br><br><br>
 
