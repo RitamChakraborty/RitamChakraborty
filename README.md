@@ -106,8 +106,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 </p>
 
 - [x] ☕ Programming while drinking **Bournvita** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 year old *Hero Ranger* recently. Have great memories with it. 
-- [x] 🍿 Sucker for thriller movies. Big fan on **Natalie Portman**. 😍
+- [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 years old *Hero Ranger* recently. Have great memories with it. 
+- [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
 - [x] 😏 And of course smug smiling with my girlfriend [Shuktika](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
 
