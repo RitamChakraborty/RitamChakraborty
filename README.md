@@ -45,7 +45,8 @@
 <p align="center">
     <img src="./assets/wanna-talk-light.gif#gh-light-mode-only" width="400">
     <img src="./assets/wanna-talk-dark.gif#gh-dark-mode-only" width="400">
-    <img src="./assets/check-phone.gif" height="200" width="190" />
+    <img src="./assets/check-phone.gif#gh-dark-mode-only" height="200" width="190" />
+    <img src="./assets/check-phone-dark.gif#gh-light-mode-only" height="200" width="210" />
 </p>
 
 <br>
