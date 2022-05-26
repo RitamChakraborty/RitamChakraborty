@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/headers/ola-amigos-light.gif#gh-light-mode-only" width="400" hspace="550">
+    <img src="./assets/headers/ola-amigos-light.gif#gh-light-mode-only" width="400" hspace="50">
     <img src="./assets/headers/ola-amigos-dark.gif#gh-dark-mode-only" width="400" hspace="50">
     <img src="./assets/cats/hello-light.gif#gh-light-mode-only" height="220" width="210" />
     <img src="./assets/cats/hello-dark.gif#gh-dark-mode-only" height="220" width="210" />
