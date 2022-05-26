@@ -10,9 +10,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/cats/smart.gif" height="200" width="200" />
-    <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" width="400">
-    <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/smart.gif#gh-light-mode-only" height="200" width="200" />
+    <img src="./assets/smart-light.gif#gh-dark-mode-only" height="200" width="200" />
+    <img src="./assets/about-me-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/about-me-dark.gif#gh-dark-mode-only" width="400">
 </p>
 
 <br>
@@ -20,9 +21,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" width="400">
-    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" width="400">
-    <img src="./assets/cats/typing.gif" height="200" width="230" hspace="70"/>
+    <img src="./assets/currently-typing-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/currently-typing-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/typing.gif#gh-light-mode-only" height="200" width="230" hspace="70"/>
+    <img src="./assets/typing-light.gif#gh-dark-mode-only" height="230" width="230" hspace="70"/>
 </p>
 
 <br>
@@ -30,9 +32,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/cats/drink.gif" height="200" width="200" />
-    <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" width="400">
-    <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/drink-dark.gif#gh-light-mode-only" height="220" width="210" />
+    <img src="./assets/drink.gif#gh-dark-mode-only" height="200" width="200" />
+    <img src="./assets/fun-fact-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/fun-fact-dark.gif#gh-dark-mode-only" width="400">
 </p>
 
 <br>
@@ -40,9 +43,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/wanna-talk-light.gif#gh-light-mode-only" width="400">
-    <img src="./assets/headers/wanna-talk-dark.gif#gh-dark-mode-only" width="400">
-    <img src="./assets/cats/check-phone.gif" height="200" width="190" />
+    <img src="./assets/wanna-talk-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/wanna-talk-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/check-phone.gif#gh-dark-mode-only" height="200" width="190" />
+    <img src="./assets/check-phone-dark.gif#gh-light-mode-only" height="200" width="210" />
 </p>
 
 <br>
@@ -51,9 +55,10 @@
 
 
 <p align="center">
-  <img src="./assets/headers/meow-light.gif#gh-light-mode-only" />
-  <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only" />
-  <img src="./assets/cats/cat-in-box.gif" />
+  <img src="./assets/meow-light.gif#gh-light-mode-only" />
+  <img src="./assets/meow-dark.gif#gh-dark-mode-only"/>
+  <img src="./assets/cat-in-box.gif#gh-light-mode-only" />
+  <img src="./assets/cat-in-box-light.gif#gh-dark-mode-only" height="280" width="280" />
 </p>
 
 
