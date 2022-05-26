@@ -77,6 +77,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 
 ### 🛠️ Tools I use to build stuff
 
+<br>
+
 <img src="./assets/tools/idea.png" height="40" hspace="20"> Wrote my first `Hello, World!` in Itellj IDEA, and never looked back.
 
 <img src="./assets/tools/webstorm.png" height="40" hspace="20"> May sound weird but I prefer *WebStorm* over *VSCode*.
