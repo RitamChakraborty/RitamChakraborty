@@ -39,6 +39,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 
 ### ⌨️ Languages I code
 
+<br>
+
 <p align="center">
   <img src="./assets/languages/java.png" height="75" hspace="10">
   <img src="./assets/languages/javascript.png" height="75" hspace="10">
@@ -48,6 +50,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 
 ### ✨ Frameworks I know
 
+<br>
+
 <p align="center">
   <img src="./assets/frameworks/spring.png" height="70" hspace="10">
   <img src="./assets/frameworks/angular.png" height="70" hspace="10">
@@ -55,6 +59,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 </p>
 
 ### 🎨 Libraries I use for styling
+
+<br>
 
 <p align="center">
   <img src = "./assets/styling/css.png" height="67" hspace="10">
