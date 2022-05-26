@@ -57,6 +57,7 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 ### 🎨 Libraries I use for styling
 
 <p align="center">
+  <img src = "./assets/styling/css.png" height="67" hspace="10">
   <img src = "./assets/styling/scss.png" height="67" hspace="10">
   <img src="./assets/styling/bootstrap.png" height="67" hspace="10">
   <img src="./assets/styling/angularmaterial.png" height="67" hspace="10">
