@@ -48,6 +48,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
   <img src="./assets/languages/dart.png" height="75">
 </p>
 
+<br>
+
 ### ✨ Frameworks I know
 
 <br>
@@ -57,6 +59,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
   <img src="./assets/frameworks/angular.png" height="70" hspace="10">
   <img src="./assets/frameworks/flutter.png" height="75" hspace="10">
 </p>
+
+<br>
 
 ### 🎨 Libraries I use for styling
 
@@ -68,6 +72,8 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
   <img src="./assets/styling/bootstrap.png" height="67" hspace="10">
   <img src="./assets/styling/angularmaterial.png" height="67" hspace="10">
 </p>
+
+<br>
 
 ### 🛠️ Tools I use to build stuff
 
