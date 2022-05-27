@@ -10,10 +10,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/cats/smart-light.gif#gh-light-mode-only" alt="smart" height="200" width="200" />
-    <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart" height="200" width="200" />
-    <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" alt="about-me" width="400">
-    <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" alt="about-me" width="400">
+    <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/cats/smart-light.gif#gh-light-mode-only" height="200" width="200" />
+    <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" height="200" width="200" />
 </p>
 
 I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullStack** Developer.
@@ -131,10 +131,17 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
+<<<<<<< HEAD
     <img src="./assets/cats/drink-light.gif#gh-light-mode-only" alt="drinking-cat" height="200" width="210" />
     <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="200" width="200" />
     <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" alt="fun-facts" width="400">
     <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" alt="fun-facts" width="400">
+=======
+    <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/cats/drink-light.gif#gh-light-mode-only" height="200" width="210" />
+    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" height="200" width="200" />
+>>>>>>> e7785704514e477264729a394bbfb8c4a9426215
 </p>
 
 - [x] ☕ Programming while drinking **Bournvita** is the ultimate fun for me. 
@@ -182,8 +189,26 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="./assets/headers/meow-light.gif#gh-light-mode-only" alt="meow" />
   <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only" alt="meow" />
   <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" alt="cat-in-box" height="280" />
   <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
+=======
+    <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" width="400">
+    <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/cats/stats-light.gif#gh-light-mode-only" height="230" width="240" />
+    <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" height="200" width="200" />
+</p>
+
+<br>
+<hr>
+<br>
+
+<p align="center">
+  <img src="./assets/headers/meow-light.gif#gh-light-mode-only" />
+  <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only"/>
+  <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" height="280" />
+  <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" height="280" width="280" />
+>>>>>>> e7785704514e477264729a394bbfb8c4a9426215
 </p>
