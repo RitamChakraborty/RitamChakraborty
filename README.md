@@ -1,3 +1,6 @@
+<br>
+<br>
+
 <p align="center">
     <img src="./assets/headers/ola-amigos-light.gif#gh-light-mode-only" width="400" alt="ola-amigos" hspace="50">
     <img src="./assets/headers/ola-amigos-dark.gif#gh-dark-mode-only" width="400" alt="ola-amigos" hspace="50">
@@ -179,7 +182,9 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <a href="https://www.linkedin.com/in/ritamchakraborty/">
     <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="25">
   </a>
-  <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="25">
+  <a href="https://discord.com/users/RitamChakraborty#6029">
+    <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="25">
+  </a>
   <a href="https://t.me/RITAM_CHAKRAB0RTY">
     <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="25">
   </a>
