@@ -107,12 +107,14 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <span>Wrote my first <code>Hello, World!</code> in <i>Itellj IDEA</i> and never looked back.</span>
 
 <br>
+<br>
 
 <a href="https://www.jetbrains.com/webstorm">
   <img src="./assets/tools/webstorm.png" alt="WebStorm" height="40" hspace="20">
 </a> 
 <span>May sound weird but I prefer <i>WebStorm</i> over <i>VSCode</i>.</span>
 
+<br>
 <br>
 
 <a href="https://developer.android.com/studio">
@@ -121,6 +123,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <span>Use <i>Android Studio</i> for casual Flutter development.</span>
 
 <br>
+<br>
 
 <a href="https://code.visualstudio.com">
   <img src="./assets/tools/vscode.png" alt="Visual Studio Code" height="45" hspace="20">
@@ -128,12 +131,14 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <span>Use <i>VSCode</i> for viewing projects quickly.</span>
 
 <br>
+<br>
 
 <a href="https://www.deepin.org/en">
   <img src="./assets/tools/deepin.png" alt="Deepin" height="45" hspace="20">
 </a>
 <span>Started with <i>Windows</i>. Then switched to <i>Ubuntu</i>. That was my first introduction to Linux. Finally found out about <b>Deepin</b>, and I instantly fell in love with it. And don't have plans to hop any time soon. 😌</span>
 
+<br>
 <br>
 
 > I've an *Ideapad* 100 from Lenovo. With a dual core 5000u processor. I've upgraded my RAM to 8GB, and replaced the HDD with a *Samsung 850 EVO* SSD, and put the hard disk in the disk drive caddy. This trusty guy is serving me for 6 years and counting. 🥰
