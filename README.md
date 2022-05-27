@@ -10,10 +10,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/cats/smart-light.gif#gh-light-mode-only" height="200" width="200" />
-    <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" height="200" width="200" />
     <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" width="400">
     <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/cats/smart-light.gif#gh-light-mode-only" height="200" width="200" />
+    <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" height="200" width="200" />
 </p>
 
 I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullStack** Developer.
@@ -99,10 +99,10 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 <br>
 
 <p align="center">
-    <img src="./assets/cats/drink-light.gif#gh-light-mode-only" height="200" width="210" />
-    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" height="200" width="200" />
     <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" width="400">
     <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" width="400">
+    <img src="./assets/cats/drink-light.gif#gh-light-mode-only" height="200" width="210" />
+    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" height="200" width="200" />
 </p>
 
 - [x] ☕ Programming while drinking **Bournvita** is the ultimate fun for me. 
