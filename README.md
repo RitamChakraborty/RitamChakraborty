@@ -155,7 +155,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" alt="fun-facts" width="400">
     <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" alt="fun-facts" width="400">
     <img src="./assets/cats/drink-light.gif#gh-light-mode-only" alt="drinking-cat" height="200" width="210" />
-    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="200" width="200" />
+    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="220" width="212" />
 </p>
 
 - [x] ☕ Programming while drinking **Bournvita** is the ultimate fun for me. 
@@ -218,7 +218,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <br>
 <hr>
-<br>
 
 <p align="center">
   <img src="./assets/headers/meow-light.gif#gh-light-mode-only" alt="meow" />
