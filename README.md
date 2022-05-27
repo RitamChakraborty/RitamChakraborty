@@ -126,7 +126,7 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
   <img src="./assets/talk/gmail.png" height="70" hspace="25">
   <img src="./assets/talk/linkedin.png" height="70" hspace="25">
   <img src="./assets/talk/discord.png" height="70" hspace="25">
-  <img src="./assets/talk/telegram.png" height="70" hspace="25">
+  <img src="./assets/talk/telegram.png" height="69" hspace="25">
 </p>
 
 <br>
