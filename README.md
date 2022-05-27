@@ -118,15 +118,27 @@ Currently I'm focusing on increasing my knowledge in *Microservices* architectur
 <p align="center">
     <img src="./assets/headers/wanna-talk-light.gif#gh-light-mode-only" width="400">
     <img src="./assets/headers/wanna-talk-dark.gif#gh-dark-mode-only" width="400">
-    <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" height="200" width="190" />
-    <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" height="200" width="210" />
+    <img src="./assets/cats/scrolling-phone-light.gif#gh-light-mode-only" height="220" width="220" />
+    <img src="./assets/cats/scrolling-phone-dark.gif#gh-dark-mode-only" height="220" width="220" />
 </p>
 
 <p align="center">
   <img src="./assets/talk/gmail.png" height="70" hspace="25">
+  <img src="./assets/talk/linkedin.png" height="70" hspace="25">
   <img src="./assets/talk/discord.png" height="70" hspace="25">
   <img src="./assets/talk/telegram.png" height="70" hspace="25">
 </p>
+
+<br>
+
+<details>
+  <summary>I'll be waiting for a <b>Hi</b>.</summary>
+  <p align="center">
+      <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" height="250" width="230" />
+      <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" height="240" width="250" />
+
+  </p>
+</details>
 
 <br>
 <hr>
