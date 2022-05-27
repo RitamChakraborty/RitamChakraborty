@@ -200,4 +200,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only" alt="meow" />
   <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" alt="cat-in-box" height="280" />
   <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
+  <br>
+  <img src="https://profile-counter.glitch.me/RitamChakraborty/count.svg" alt="visit-counter">
 </p>
