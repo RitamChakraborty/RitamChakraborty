@@ -103,23 +103,36 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <a href="https://www.jetbrains.com/idea">
   <img src="./assets/tools/idea.png" alt="Itellj IDEA" height="40" hspace="20">
-</a> Wrote my first `Hello, World!` in *Itellj IDEA* and never looked back.
+</a>
+<span>Wrote my first <code>Hello, World!</code> in <i>Itellj IDEA</i> and never looked back.</span>
+
+<br>
 
 <a href="https://www.jetbrains.com/webstorm">
   <img src="./assets/tools/webstorm.png" alt="WebStorm" height="40" hspace="20">
-</a> May sound weird but I prefer *WebStorm* over *VSCode*.
+</a> 
+<span>May sound weird but I prefer <i>WebStorm</i> over <i>VSCode</i>.</span>
+
+<br>
 
 <a href="https://developer.android.com/studio">
   <img src="./assets/tools/androidstudio.png" alt="Android Studio" height="40" hspace="20">
-</a> Use *Android Studio* for casual Flutter development;
+</a>
+<span>Use <i>Android Studio</i> for casual Flutter development.</span>
+
+<br>
 
 <a href="https://code.visualstudio.com">
   <img src="./assets/tools/vscode.png" alt="Visual Studio Code" height="45" hspace="20">
-</a> Use *VSCode* for viewing projects quickly.
+</a>
+<span>Use <i>VSCode</i> for viewing projects quickly.</span>
+
+<br>
 
 <a href="https://www.deepin.org/en">
   <img src="./assets/tools/deepin.png" alt="Deepin" height="45" hspace="20">
-</a> Started with *Windows*. Then switched to *Ubuntu*. That was my first introduction to Linux. Finally found out about **Deepin**, and I instantly fell in love with it. And don't have plans to hop any time soon. 😌
+</a>
+<span>Started with <i>Windows</i>. Then switched to <i>Ubuntu</i>. That was my first introduction to Linux. Finally found out about <b>Deepin</b>, and I instantly fell in love with it. And don't have plans to hop any time soon. 😌</span>
 
 <br>
 
