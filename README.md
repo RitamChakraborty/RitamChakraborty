@@ -204,9 +204,11 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
     <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
     <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true" alt="visit-counter" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true" alt="language-stats" height="180">
+    <br> 
+    <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true#gh-light-mode-only" alt="visit-counter" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="180">
+    <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="visit-counter" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true&theme=dark#gh-dark-mode-only" alt="language-stats" height="180">
 </p>
 
 <br>
