@@ -47,23 +47,13 @@ I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullSta
 
 I'm focusing on increasing my knowledge in *Microservices* architecture. Learning about various CI/CD tools and methods, and also getting invested in **Cloud**.
 
-### ⌨️ Languages I code
+### ⌨️ Languages I speak
 
 <br>
 
 <p align="center">
-  <a href="https://www.java.com">
-    <img src="./assets/languages/java.png" alt="Java" height="75" hspace="10">
-  </a>
-  <a href="https://www.javascript.com">
-    <img src="./assets/languages/javascript.png" alt="Javascript" height="75" hspace="10">
-  </a>
-  <a href="https://www.typescriptlang.org">
-    <img src="./assets/languages/typescript.png" alt="Typescript" height="75" hspace="10">
-  </a>
-  <a href="https://dart.dev">
-    <img src="./assets/languages/dart.png" alt="Dart" height="75">
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,dart,python&theme=light#gh-light-mode-only" alt="languages" height="60">
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,dart,python#gh-dark-mode-only" alt="languages" height="60">
 </p>
 
 <br>
