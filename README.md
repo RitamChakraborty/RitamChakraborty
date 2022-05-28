@@ -111,8 +111,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <a href="https://code.visualstudio.com">
-  <img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="45" hspace="20">
-  <img src="./assets/tools/vscode-dark.svg#gh-dark-mode-only" alt="Visual Studio Code" height="45" hspace="20">
+  <img src="./assets/tools/vscode.png" alt="Visual Studio Code" height="45" hspace="20">
 </a>
 <span>Use <i>VSCode</i> for viewing projects quickly.</span>
 
