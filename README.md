@@ -6,6 +6,9 @@
     <img src="./assets/headers/ola-amigos-dark.gif#gh-dark-mode-only" width="400" alt="ola-amigos" hspace="50">
     <img src="./assets/cats/hello-light.gif#gh-light-mode-only" alt="hello" height="220" width="210" />
     <img src="./assets/cats/hello-dark.gif#gh-dark-mode-only" alt="hello" height="220" width="210" />
+    <br>
+    <br>
+    <a href="https://github.com/RitamChakraborty#choose-pinned-repositories
 </p>
 
 <br>
@@ -228,3 +231,5 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <br>
   <img src="https://profile-counter.glitch.me/RitamChakraborty/count.svg" alt="visit-counter">
 </p>
+
+<div id="repositories"></div>
