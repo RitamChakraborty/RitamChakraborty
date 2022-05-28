@@ -8,10 +8,11 @@
     <img src="./assets/cats/hello-dark.gif#gh-dark-mode-only" alt="hello" height="220" width="210" />
     <br>
     <br>
-    <a href="https://github.com/RitamChakraborty#choose-pinned-repositories
+    <br>
+    <br>
+    <a href="https://github.com/RitamChakraborty#user-content-repositories">Navigate to Repositories</a>
 </p>
 
-<br>
 <hr>
 <br>
 
