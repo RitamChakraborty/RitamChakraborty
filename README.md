@@ -107,7 +107,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <a href="https://www.jetbrains.com/idea">
   <img src="./assets/tools/idea.png" alt="Itellj IDEA" height="40" hspace="20">
 </a>
-<span>Wrote my first <code>Hello, World!</code> in <i>Itellj IDEA</i> and never looked back.</span>
+<span>Wrote my first <code>Hello, World!</code> in <i>Intellj IDEA</i> and never looked back.</span>
 
 <br>
 <br>
@@ -144,7 +144,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 <br>
 
-> I've an *Ideapad* 100 from Lenovo. With a dual core 5000u processor. I've upgraded my RAM to 8GB, and replaced the HDD with a *Samsung 850 EVO* SSD, and put the hard disk in the disk drive caddy. This trusty guy is serving me for 6 years and counting. 🥰
+> I've an *Ideapad* 100 from Lenovo. With a dual core 5005u processor. I've upgraded my RAM to 8GB, and replaced the HDD with a *Samsung 850 EVO* SSD, and put the hard disk in the disk drive caddy. This trusty guy is serving me for 6 years and counting. 🥰
 
 
 <br>
