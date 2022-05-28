@@ -52,26 +52,19 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,dart,python&theme=light#gh-light-mode-only" alt="languages" height="60">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,dart,python#gh-dark-mode-only" alt="languages" height="60">
+  <img src="./assets/languages/languages-light.svg#gh-light-mode-only" alt="languages" height="60">
+  <img src="./assets/languages/languages-dark.svg#gh-dark-mode-only" alt="languages" height="60">
 </p>
 
 <br>
 
-### ✨ Frameworks I know
+### 💾 Databases where I store things
 
 <br>
 
 <p align="center">
-  <a href="https://spring.io">
-    <img src="./assets/frameworks/spring.png" alt="Spring" height="70" hspace="10">
-  </a>
-  <a href="https://angular.io">
-    <img src="./assets/frameworks/angular.png" alt="Angular" height="70" hspace="10">
-  </a>
-  <a href="https://flutter.dev">
-    <img src="./assets/frameworks/flutter.png" alt="Flutter" height="75" hspace="10">
-  </a>
+  <img src="./assets/databases/databases-light.svg#gh-light-mode-only" alt="languages" height="60">
+  <img src="./assets/databases/databases-dark.svg#gh-dark-mode-only" alt="languages" height="60">
 </p>
 
 <br>
@@ -81,17 +74,9 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src = "./assets/styling/css.png" alt="CSS" height="67" hspace="10">
-  </a>
-  <a href="https://sass-lang.com">
-    <img src = "./assets/styling/scss.png" alt="SCSS" height="67" hspace="10">
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="./assets/styling/bootstrap.png" alt="Bootstrap" height="67" hspace="10">
-  </a>
+  <img src="./assets/styling/styling.svg" alt="languages" height="60">
   <a href="https://material.angular.io">
-    <img src="./assets/styling/angularmaterial.png" alt="Angular Material" height="67" hspace="10">
+    <img src="./assets/styling/angularmaterial.png" alt="Angular Material" height="60" hspace="3">
   </a>
 </p>
 
@@ -126,7 +111,8 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <a href="https://code.visualstudio.com">
-  <img src="./assets/tools/vscode.png" alt="Visual Studio Code" height="45" hspace="20">
+  <img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="45" hspace="20">
+  <img src="./assets/tools/vscode-dark.svg#gh-dark-mode-only" alt="Visual Studio Code" height="45" hspace="20">
 </a>
 <span>Use <i>VSCode</i> for viewing projects quickly.</span>
 
