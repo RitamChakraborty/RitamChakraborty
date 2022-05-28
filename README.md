@@ -10,9 +10,12 @@
     <br>
     <br>
     <br>
-    <a href="https://github.com/RitamChakraborty#user-content-repositories">Navigate to Repositories</a>
+    <a href="https://github.com/RitamChakraborty#user-content-repositories">
+      <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
+    </a>
 </p>
 
+<br>
 <hr>
 <br>
 
