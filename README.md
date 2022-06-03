@@ -198,14 +198,24 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only" alt="visit-counter" height="180">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true&theme=chartreuse-dark#gh-dark-mode-only" alt="language-stats" height="180"> -->
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700" alt="GitHub Streak" />
 </p>
-
 
 <br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<br>
+
+<a href="#" alt="gits">
+  <img src="https://metrics.lecoq.io/RitamChakraborty?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&gists=1&base.indepth=true&base.hireable=false&config.timezone=Asia%2FCalcutta" alt="Gits">
+</a>
+
+<br>
+
+<img src="https://metrics.lecoq.io/RitamChakraborty?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&stackoverflow=1&base.indepth=false&base.hireable=false&stackoverflow.user=10644028&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=Asia%2FCalcutta" alt="StackOverflow Metrics">
 
 <br>
 <hr>
