@@ -204,6 +204,11 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 </p>
 
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
 <hr>
 
 <p align="center">
