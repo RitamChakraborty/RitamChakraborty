@@ -189,19 +189,31 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-    <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="400">
-    <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
-    <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
-    <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
-    <br> 
-    <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true#gh-light-mode-only" alt="visit-counter" height="140">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only" alt="visit-counter" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true&theme=chartreuse-dark#gh-dark-mode-only" alt="language-stats" height="180"> -->
-  <br>
-  </p>
-  <br>
-  <p align="center">
+  <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="400">
+  <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
+  <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
+  <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
+</p>
+
+<br> 
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+<!--END_CONTRIBUTIONS:readme-info-->
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true#gh-light-mode-only" alt="visit-counter" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
+</p>
+
+<br>
+<br>
+
+<p align="center">
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=algolia&title=Commits">
   </p>
@@ -212,13 +224,13 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Stars">
     <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&column=-1&theme=juicyfresh&title=Issues,PullRequest">
     <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Followers">
-</p>
-<p align="center">
+  </p>
+  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
+  </p>
 </p>
 
 <br>
-
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -275,6 +287,11 @@ Shell                    1 repo              ░░░░░░░░░░░�
   <br>
   <br>
   <img src="https://profile-counter.glitch.me/RitamChakraborty/count.svg" alt="visit-counter">
+</p>
+
+<p align="center">
+  <!--START_SECTION_PROFILE_VIEWS:readme-info-->
+  <!--END_SECTION_PROFILE_VIEWS:readme-info-->
 </p>
 
 <br>
