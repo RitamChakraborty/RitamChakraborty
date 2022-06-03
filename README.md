@@ -198,12 +198,26 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only" alt="visit-counter" height="180">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true&theme=chartreuse-dark#gh-dark-mode-only" alt="language-stats" height="180"> -->
-    <br>
-    <br>
+  <br>
+  </p>
+  <br>
+  <p align="center">
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=algolia&title=Commits">
+  </p>
+  <p align="center">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=20&column=-1&theme=onedark&title=MultiLanguage,Repositories">
+  </p>
+  <p align="center">
+    <img src ="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=juicyfresh&title=Followers,Issues,Stars,PullRequest">
+  </p>
+</p>
+<p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
 </p>
 
 <br>
+
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -270,3 +284,4 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <br>
 <div id="repositories"></div>
+
