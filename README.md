@@ -199,6 +199,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true&theme=chartreuse-dark#gh-dark-mode-only" alt="visit-counter" height="180">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true&theme=chartreuse-dark#gh-dark-mode-only" alt="language-stats" height="180"> -->
     <br>
+    <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
 </p>
 
