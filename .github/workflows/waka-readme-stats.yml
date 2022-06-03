@@ -14,7 +14,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LOC_CHART: "False"
           COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "Update README stats"
@@ -26,4 +26,5 @@ jobs:
           SHOW_TIMEZONE: "False"
           SHOW_EDITORS: "False"
           SHOW_SHORT_INFO: "False"
+          SHOW_LANGUAGE: "False"
           LOCALE: "en"
