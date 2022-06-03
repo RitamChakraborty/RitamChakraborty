@@ -205,6 +205,77 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-248-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 367 Contributions in the Year 2022
+ > 
+> 📦 318.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 39 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    120 commits    █████░░░░░░░░░░░░░░░░░░░░   21.05% 
+🌆 Daytime    229 commits    ██████████░░░░░░░░░░░░░░░   40.18% 
+🌃 Evening    216 commits    █████████░░░░░░░░░░░░░░░░   37.89% 
+🌙 Night      5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
+Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
+Wednesday    93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+Thursday     80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Friday       94 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
+Saturday     57 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Sunday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.98%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Java** 
+
+```text
+Java                     21 repos            ██████████████░░░░░░░░░░░   56.76% 
+Dart                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+
+```
+
+
+
+ Last Updated on 03/06/2022 08:11:04 UTC
 <!--END_SECTION:waka-->
 
 <br>
