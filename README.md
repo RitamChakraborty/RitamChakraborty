@@ -197,20 +197,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <br> 
 
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 96492 Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 383 Contributions in year 2022**
-
-
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true#gh-light-mode-only" alt="visit-counter" height="140">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
@@ -235,6 +221,20 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
   </p>
 </p>
+
+<br>
+
+<!--START_SECTION_LINES_OF_CODE:readme-info-->
+**From Hello World I have written 96492 Lines of Code ✍️**
+
+
+<!--END_SECTION_LINES_OF_CODE:readme-info-->
+
+<!--START_CONTRIBUTIONS:readme-info-->
+**🏆 383 Contributions in year 2022**
+
+
+<!--END_CONTRIBUTIONS:readme-info-->
 
 <br>
 
@@ -303,7 +303,7 @@ Shell                    1 repo              ░░░░░░░░░░░�
   <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
   <br>
   <br>
-  <img src="https://profile-counter.glitch.me/RitamChakraborty/count.svg" alt="visit-counter">
+  <!-- <img src="https://profile-counter.glitch.me/RitamChakraborty/count.svg" alt="visit-counter"> -->
 </p>
 
 <p align="center">
