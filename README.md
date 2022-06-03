@@ -223,6 +223,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <!--END_CONTRIBUTIONS:readme-info-->
 
+<center>
 <!--START_SECTION_DAILY_COMMIT:readme-info-->
 **I'm an early 🐤** 
 
@@ -235,6 +236,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 | | | | |
 
 <!--END_SECTION_DAILY_COMMIT:readme-info-->
+</center>
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 📅 **I'm Most Productive on Tuesdays** 
