@@ -10,9 +10,9 @@
     <br>
     <br>
     <br>
-    <a href="https://github.com/RitamChakraborty#bottom">Navigate to Bottom</a>
+    <a href="https://github.com/RitamChakraborty#user-content-repositories">Navigate to Bottom</a>
     <br>
-    <a href="https://github.com/RitamChakraborty#bottom" target="_self">
+    <a href="https://github.com/RitamChakraborty#user-content-repositories" target="_self">
       <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
     </a>
 </p>
@@ -201,16 +201,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 </p>
 
 <br>
-
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-<br>
 <hr>
 
 <p align="center">
@@ -224,4 +214,4 @@ No activity tracked
 </p>
 
 <br>
-<div id="bottom"></div>
+<div id="repositories"></div>
