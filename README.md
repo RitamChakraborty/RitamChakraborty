@@ -10,14 +10,11 @@
     <br>
     <br>
     <br>
-    <p align = "center">
-    <a href="https://github.com/RitamChakraborty#user-content-repositories" target="_self">
+    <a href="https://github.com/RitamChakraborty#bottom">Navigate to Bottom</a>
+    <br>
+    <a href="https://github.com/RitamChakraborty#bottom" target="_self">
       <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
     </a>
-    <p>
-    <a href="https://github.com/RitamChakraborty#user-content-repositories">Navigate to Bottom</a>
-    <br>
-    
 </p>
 
 <br>
@@ -217,4 +214,4 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 </p>
 
 <br>
-<div id="repositories"></div>
+<div id="bottom"></div>
