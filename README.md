@@ -136,59 +136,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-    <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" alt="fun-facts" width="400">
-    <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" alt="fun-facts" width="400">
-    <img src="./assets/cats/drink-light.gif#gh-light-mode-only" alt="drinking-cat" height="200" width="210" />
-    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="220" width="212" />
-</p>
-
-- [x] ☕ Programming while drinking **Bournvita** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 years old *Hero Ranger* recently. Have great memories with it. 
-- [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
-- [x] ♻️ Love to recycle stuff, specially electronics.
-- [x] 😏 And of course smug smiling with my girlfriend [Shuktika](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
-
-<br>
-<hr>
-<br>
-
-<p align="center">
-    <img src="./assets/headers/wanna-talk-light.gif#gh-light-mode-only" alt="wanna-talk" width="400">
-    <img src="./assets/headers/wanna-talk-dark.gif#gh-dark-mode-only" alt="wanna-talk" width="400">
-    <img src="./assets/cats/scrolling-phone-light.gif#gh-light-mode-only" alt="scrolling-phone" height="220" width="220" />
-    <img src="./assets/cats/scrolling-phone-dark.gif#gh-dark-mode-only" alt="scrolling-phone" height="220" width="220" />
-</p>
-
-<p align="center">
-  <a href="mailto:mailbox.ritamchakraborty@gmail.com">
-    <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="25">
-  </a>
-  <a href="https://www.linkedin.com/in/ritamchakraborty/">
-    <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="25">
-  </a>
-  <a href="https://discord.com/users/RitamChakraborty#6029">
-    <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="25">
-  </a>
-  <a href="https://t.me/RITAM_CHAKRAB0RTY">
-    <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="25">
-  </a>
-</p>
-
-<br>
-
-<details>
-  <summary>I'll be waiting for a <b>Hi</b>.</summary>
-  <p align="center">
-      <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
-      <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" alt="check-phone" height="240" width="250" />
-  </p>
-</details>
-
-<br>
-<hr>
-<br>
-
-<p align="center">
   <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="400">
   <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
   <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
@@ -202,7 +149,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
 </p>
 
-<br>
 <br>
 
 <p align="center">
@@ -295,16 +241,69 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 <br>
 <hr>
+<br>
+
+<p align="center">
+    <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" alt="fun-facts" width="400">
+    <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" alt="fun-facts" width="400">
+    <img src="./assets/cats/drink-light.gif#gh-light-mode-only" alt="drinking-cat" height="200" width="210" />
+    <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="220" width="212" />
+</p>
+
+- [x] ☕ Programming while drinking **Bournvita** is the ultimate fun for me. 
+- [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 years old *Hero Ranger* recently. Have great memories with it. 
+- [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
+- [x] ♻️ Love to recycle stuff, specially electronics.
+- [x] 😏 And of course smug smiling with my girlfriend [Shuktika](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
+
+<br>
+<hr>
+<br>
+
+<p align="center">
+    <img src="./assets/headers/wanna-talk-light.gif#gh-light-mode-only" alt="wanna-talk" width="400">
+    <img src="./assets/headers/wanna-talk-dark.gif#gh-dark-mode-only" alt="wanna-talk" width="400">
+    <img src="./assets/cats/scrolling-phone-light.gif#gh-light-mode-only" alt="scrolling-phone" height="220" width="220" />
+    <img src="./assets/cats/scrolling-phone-dark.gif#gh-dark-mode-only" alt="scrolling-phone" height="220" width="220" />
+</p>
+
+<p align="center">
+  <a href="mailto:mailbox.ritamchakraborty@gmail.com">
+    <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="25">
+  </a>
+  <a href="https://www.linkedin.com/in/ritamchakraborty/">
+    <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="25">
+  </a>
+  <a href="https://discord.com/users/RitamChakraborty#6029">
+    <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="25">
+  </a>
+  <a href="https://t.me/RITAM_CHAKRAB0RTY">
+    <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="25">
+  </a>
+</p>
+
+<br>
+
+<details>
+  <summary>I'll be waiting for a <b>Hi</b>.</summary>
+  <p align="center">
+      <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
+      <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" alt="check-phone" height="240" width="250" />
+  </p>
+</details>
+
+<br>
+<hr>
 
 <p align="center">
   <img src="./assets/headers/meow-light.gif#gh-light-mode-only" alt="meow" />
   <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only" alt="meow" />
   <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" alt="cat-in-box" height="280" />
   <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
-  <br>
-  <br>
-  <!-- <img src="https://profile-counter.glitch.me/RitamChakraborty/count.svg" alt="visit-counter"> -->
 </p>
+
+ <br>
+  <br>
 
 <p align="center">
   <!--START_SECTION_PROFILE_VIEWS:readme-info-->
