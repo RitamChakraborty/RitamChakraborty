@@ -285,7 +285,9 @@ Shell                    1 repo              ░░░░░░░░░░░�
 <br>
 
 <details>
-  <summary>I'll be waiting for a <b>Hi</b>.</summary>
+  <summary align="center">
+    I'll be waiting for a <b>Hi</b>.
+  </summary>
   <p align="center">
       <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
       <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" alt="check-phone" height="240" width="250" />
