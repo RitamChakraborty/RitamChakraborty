@@ -297,8 +297,54 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
-
 <!--END_SECTION:waka-->
+
+<br>
+
+<details>
+  <summary>👨‍💻 Other Coding Profiles</summary>
+  <table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Progress</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
+            StackOverflow
+          </a>
+        </td>
+        <td>
+          <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty#gh-light-mode-only">
+            <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=dark&layout=compact#gh-light-mode-only" width="400"/>
+          </a>
+          <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty#gh-dark-mode-only">
+            <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=dark&layout=compact#gh-dark-mode-only" width="400"/>
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://leetcode.com/RitamChakraborty">
+            LeetCode
+          </a>
+        </td>
+        <td>
+          <a href="https://leetcode.com/RitamChakraborty#gh-light-mode-only">
+            <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=light#gh-light-mode-only" width="400"/>
+          </a>
+          <a href="https://leetcode.com/RitamChakraborty#gh-dark-mode-only">
+            <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark#gh-dark-mode-only" width="400"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</a>
+</details>
 
 <br>
 <hr>
