@@ -253,8 +253,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" alt="Contribution Calendar">
 </details>
 
-<br>
-
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
