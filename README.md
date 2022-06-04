@@ -304,8 +304,6 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<br>
-
 <details>
   <summary>👨‍💻 Other Coding Profiles</summary>
   <br>
