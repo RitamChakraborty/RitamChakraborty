@@ -247,7 +247,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <!--END_CONTRIBUTIONS:readme-info-->
 
 <details>
-  <summary>🗓️ Contribution Calendar</summary>
+  <summary>📈 Contribution Calendar</summary>
   <br>
   <img src="./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="Contribution Calendar">
   <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" alt="Contribution Calendar">
