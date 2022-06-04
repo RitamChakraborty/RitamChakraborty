@@ -41,8 +41,8 @@ I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullSta
 <br>
 
 <p align="center">
-    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400">
-    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400">
+    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400" space="50" />
+    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400" hspace="50" />
     <img src="./assets/cats/typing-light.gif#gh-light-mode-only" alt="typing-cat" height="220" width="200" hspace="70"/>
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" hspace="70"/>
 </p>
@@ -59,16 +59,16 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
     <img src="./assets/languages/java-dark.svg#gh-dark-mode-only" alt="Java" height="60" hspace="10" />
   </a>
   <a href="https://www.javascript.com">
-    <img src="./assets/languages/javascript.svg" alt="JavaScript" height="60" hspace="10" />
+    <img src="./assets/languages/javascript.svg" alt="JavaScript" height="60" hspace="10" >
   </a>
   <a href="https://www.typescriptlang.org">
-    <img src="./assets/languages/typescript.svg" alt="TypeScript" height="60" hspace="10" />
+    <img src="./assets/languages/typescript.svg" alt="TypeScript" height="60" hspace="10" >
   </a>
   <a href="https://dart.dev">
-    <img src="./assets/languages/dart-light.svg#gh-light-mode-only" alt="Dart" height="60" hspace="10" />
+    <img src="./assets/languages/dart-light.svg#gh-light-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
   <a href="https://dart.dev">
-    <img src="./assets/languages/dart-dark.svg#gh-dark-mode-only" alt="Dart" height="60" hspace="10" />
+    <img src="./assets/languages/dart-dark.svg#gh-dark-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
 </p>
 
@@ -80,16 +80,16 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <p align="center">
   <a href="https://spring.io">
-    <img src="./assets/frameworks/spring-light.svg#gh-light-mode-only" alt="Spring" height="60" hspace="10" />
-    <img src="./assets/frameworks/spring-dark.svg#gh-dark-mode-only" alt="Spring" height="60" hspace="10" />
+    <img src="./assets/frameworks/spring-light.svg#gh-light-mode-only" alt="Spring" height="60" hspace="10" >
+    <img src="./assets/frameworks/spring-dark.svg#gh-dark-mode-only" alt="Spring" height="60" hspace="10" >
   </a>
   <a href="https://angular.io">
-    <img src="./assets/frameworks/angular-light.svg#gh-light-mode-only" alt="Angular" height="60" hspace="10" />
-    <img src="./assets/frameworks/angular-dark.svg#gh-dark-mode-only" alt="Angular" height="60" hspace="10" />
+    <img src="./assets/frameworks/angular-light.svg#gh-light-mode-only" alt="Angular" height="60" hspace="10" >
+    <img src="./assets/frameworks/angular-dark.svg#gh-dark-mode-only" alt="Angular" height="60" hspace="10" >
   </a>
   <a href="https://flutter.dev">
-    <img src="./assets/frameworks/flutter-light.svg#gh-light-mode-only" alt="Flutter" height="60" hspace="10" />
-    <img src="./assets/frameworks/flutter-dark.svg#gh-dark-mode-only" alt="Flutter" height="60" hspace="10" />
+    <img src="./assets/frameworks/flutter-light.svg#gh-light-mode-only" alt="Flutter" height="60" hspace="10" >
+    <img src="./assets/frameworks/flutter-dark.svg#gh-dark-mode-only" alt="Flutter" height="60" hspace="10" >
   </a>
 </p>
 
@@ -101,15 +101,15 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <p align="center">
   <a href="https://www.mysql.com">
-    <img src="./assets/databases/mysql-light.svg#gh-light-mode-only" alt="MySQL" height="60" hspace="10" />
-    <img src="./assets/databases/mysql-dark.svg#gh-dark-mode-only" alt="MySQL" height="60" hspace="10" />
+    <img src="./assets/databases/mysql-light.svg#gh-light-mode-only" alt="MySQL" height="60" hspace="10" >
+    <img src="./assets/databases/mysql-dark.svg#gh-dark-mode-only" alt="MySQL" height="60" hspace="10" >
   </a>
   <a href="https://www.mongodb.com">
-    <img src="./assets/databases/mongodb.svg" alt="MongoDB" height="60" hspace="10" />
+    <img src="./assets/databases/mongodb.svg" alt="MongoDB" height="60" hspace="10" >
   </a>
   <a href="https://firebase.google.com">
-    <img src="./assets/databases/firebase-light.svg#gh-light-mode-only" alt="Firebase" height="60" hspace="10" />
-    <img src="./assets/databases/firebase-dark.svg#gh-dark-mode-only" alt="Firebase" height="60" hspace="10">
+    <img src="./assets/databases/firebase-light.svg#gh-light-mode-only" alt="Firebase" height="60" hspace="10" >
+    <img src="./assets/databases/firebase-dark.svg#gh-dark-mode-only" alt="Firebase" height="60" hspace="10" >
   </a>
 </p>
 
@@ -121,16 +121,16 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <p align="center">
   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="./assets/styling/css.svg" alt="CSS" height="60" hspace="10" />
+    <img src="./assets/styling/css.svg" alt="CSS" height="60" hspace="10" >
   </a>
   <a href="https://sass-lang.com">
-    <img src="./assets/styling/scss.svg" alt="SCSS" height="60" hspace="10" />
+    <img src="./assets/styling/scss.svg" alt="SCSS" height="60" hspace="10" >
   </a>
   <a href="https://getbootstrap.com">
-    <img src="./assets/styling/bootstrap.svg" alt="Bootstrap" height="60" hspace="10" />
+    <img src="./assets/styling/bootstrap.svg" alt="Bootstrap" height="60" hspace="10" >
   </a>
   <a href="https://material.angular.io">
-    <img src="./assets/styling/angularmaterial.png" alt="Angular Material" height="60" hspace="7" />
+    <img src="./assets/styling/angularmaterial.png" alt="Angular Material" height="60" hspace="7" >
   </a>
 </p>
 
