@@ -246,8 +246,6 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 
 <!--END_CONTRIBUTIONS:readme-info-->
 
-<br>
-
 <details>
   <summary>🗓️ Contribution Calendar</summary>
   <br>
