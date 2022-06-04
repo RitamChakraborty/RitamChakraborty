@@ -209,8 +209,8 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RitamChakraborty&hide_title=true&include_all_commits=true&hide_border=true&hide_rank=true&show_icons=true#gh-light-mode-only" alt="visit-counter" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitamChakraborty&layout=compact&hide_border=true&hide_title=true#gh-light-mode-only" alt="language-stats" height="140">
+  <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
+  <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
 </p>
 
 <br>
