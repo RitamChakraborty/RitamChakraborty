@@ -41,7 +41,7 @@ I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullSta
 <br>
 
 <p align="center">
-    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400" space="50" />
+    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400" hspace="50" />
     <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400" hspace="50" />
     <img src="./assets/cats/typing-light.gif#gh-light-mode-only" alt="typing-cat" height="220" width="200" hspace="70"/>
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" hspace="70"/>
