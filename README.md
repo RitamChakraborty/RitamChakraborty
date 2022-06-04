@@ -303,6 +303,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <details>
   <summary>👨‍💻 Other Coding Profiles</summary>
+  <br>
   <table>
     <thead>
       <tr>
