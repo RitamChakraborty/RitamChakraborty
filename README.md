@@ -69,7 +69,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <a href="https://dart.dev#gh-light-mode-only">
     <img src="./assets/languages/dart-light.svg#gh-light-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
-  <a href="https://dart.dev#gh-dark--mode-only">
+  <a href="https://dart.dev#gh-dark-mode-only">
     <img src="./assets/languages/dart-dark.svg#gh-dark-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
 </p>
