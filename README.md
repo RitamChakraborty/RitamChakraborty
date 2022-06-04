@@ -54,8 +54,10 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-  <a href="https://www.java.com">
+  <a href="https://www.java.com#gh-light-mode-only">
     <img src="./assets/languages/java-light.svg#gh-light-mode-only" alt="Java" alt="Java" height="60" hspace="10" />
+  </a>
+  <a href="https://www.java.com#gh-dark-mode-only">
     <img src="./assets/languages/java-dark.svg#gh-dark-mode-only" alt="Java" height="60" hspace="10" />
   </a>
   <a href="https://www.javascript.com">
@@ -64,10 +66,10 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
   <a href="https://www.typescriptlang.org">
     <img src="./assets/languages/typescript.svg" alt="TypeScript" height="60" hspace="10" >
   </a>
-  <a href="https://dart.dev">
+  <a href="https://dart.dev#gh-light-mode-only">
     <img src="./assets/languages/dart-light.svg#gh-light-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
-  <a href="https://dart.dev">
+  <a href="https://dart.dev#gh-dark--mode-only">
     <img src="./assets/languages/dart-dark.svg#gh-dark-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
 </p>
@@ -79,16 +81,22 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-  <a href="https://spring.io">
+  <a href="https://spring.io#gh-light-mode-only">
     <img src="./assets/frameworks/spring-light.svg#gh-light-mode-only" alt="Spring" height="60" hspace="10" >
+  </a>
+  <a href="https://spring.io#gh-dark-mode-only">
     <img src="./assets/frameworks/spring-dark.svg#gh-dark-mode-only" alt="Spring" height="60" hspace="10" >
   </a>
-  <a href="https://angular.io">
+  <a href="https://angular.io#gh-light-mode-only">
     <img src="./assets/frameworks/angular-light.svg#gh-light-mode-only" alt="Angular" height="60" hspace="10" >
+  </a>
+  <a href="https://angular.io#gh-dark-mode-only">
     <img src="./assets/frameworks/angular-dark.svg#gh-dark-mode-only" alt="Angular" height="60" hspace="10" >
   </a>
-  <a href="https://flutter.dev">
+  <a href="https://flutter.dev#gh-light-mode-only">
     <img src="./assets/frameworks/flutter-light.svg#gh-light-mode-only" alt="Flutter" height="60" hspace="10" >
+  </a>
+  <a href="https://flutter.dev#gh-dark-mode-only">
     <img src="./assets/frameworks/flutter-dark.svg#gh-dark-mode-only" alt="Flutter" height="60" hspace="10" >
   </a>
 </p>
@@ -100,15 +108,19 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <p align="center">
-  <a href="https://www.mysql.com">
+  <a href="https://www.mysql.com#gh-light-mode-only">
     <img src="./assets/databases/mysql-light.svg#gh-light-mode-only" alt="MySQL" height="60" hspace="10" >
+  </a>
+  <a href="https://www.mysql.com#gh-dark-mode-only">
     <img src="./assets/databases/mysql-dark.svg#gh-dark-mode-only" alt="MySQL" height="60" hspace="10" >
   </a>
   <a href="https://www.mongodb.com">
     <img src="./assets/databases/mongodb.svg" alt="MongoDB" height="60" hspace="10" >
   </a>
-  <a href="https://firebase.google.com">
+  <a href="https://firebase.google.com#gh-light-mode-only">
     <img src="./assets/databases/firebase-light.svg#gh-light-mode-only" alt="Firebase" height="60" hspace="10" >
+  </a>
+  <a href="https://firebase.google.com#gh-dark-mode-only">
     <img src="./assets/databases/firebase-dark.svg#gh-dark-mode-only" alt="Firebase" height="60" hspace="10" >
   </a>
 </p>
