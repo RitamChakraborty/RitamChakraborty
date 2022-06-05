@@ -1,6 +1,6 @@
 # Credits
 
-Without the open source tools made my great developers, I couldn't have make this README project unique. 
+Without the open source tools made by great developers, I couldn't have made this README project unique. 
 
 And I specially want to thank **Shuktika Mahanty** for her invaluable contributions. Without her my README would have finished in a single line. 🤣
 
@@ -36,7 +36,7 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 - LeetCode stats are from [leetcode-stats](https://github.com/KnlnKS/leetcode-stats) by [KnlnKS](https://github.com/KnlnKS).
 - And lastly I found out most of the resource from the repo [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) by [rzashakeri](https://github.com/rzashakeri). So a big thank you to the maintainers.
 
-> Please support the wonderful people for these fantastic tool.
+> Please support the wonderful people for these fantastic tools.
 
 <br>
 
