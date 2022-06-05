@@ -21,8 +21,6 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
     </a>
 </p>
 
-<br>
-
 ### Here's a list of things I've used in making this readme
 
 - [Canva](https://www.canva.com/) for making the banner gifs
