@@ -324,7 +324,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
         </td>
         <td>
           <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty#gh-light-mode-only">
-            <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=dark&layout=compact#gh-light-mode-only" width="400"/>
+            <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=light&layout=compact#gh-light-mode-only" width="400"/>
           </a>
           <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty#gh-dark-mode-only">
             <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=dark&layout=compact#gh-dark-mode-only" width="400"/>
