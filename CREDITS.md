@@ -4,7 +4,7 @@ Without the open source tools made my great developers, I couldn't have make thi
 
 And I specially want to thank **Shuktika Mahanty** for her invaluable contributions. Without her my README would have finished in a single line. 🤣
 
-<h2 align="center">🆂🅷🅾🆆 🅷🅴🆁 🆂🅾🅼🅴 🆂🆄🅿🅿🅾🆁🆃</h3>
+<h2 align="center">ⒻⓄⓁⓁⓄⓌ ⒽⒺⓇ ⓄⓃ ⓈⓄⒸⒾⒶⓁ ⒽⒶⓃⒹⓁⒺⓈ</h3>
 
 <p align="center">
     <a href="https://github.com/Shuktika15">
