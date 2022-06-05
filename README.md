@@ -416,17 +416,13 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
 </p>
 
- <br>
-  <br>
+<br>
+<br>
 
 <p align="center">
-  <!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 384 people were here!**
-
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
+  <img src="https://img.shields.io/badge/dynamic/json?label=PROFILE%20VIEWS&style=for-the-badge&color=0088cc&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2FRitamChakraborty" alt="Profile Views">
 </p>
 
 <br>
-<div id="repositories"></div>
 
+<div id="repositories"></div>
