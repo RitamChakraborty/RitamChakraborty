@@ -1,4 +1,4 @@
-# Credits
+<h1 align="center">⎇𝕮𝖗𝖊𝖉𝖎𝖙𝖘⌥</h1>
 
 Without the open source tools made by great developers, I couldn't have made this README project unique. 
 
