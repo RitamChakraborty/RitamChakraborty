@@ -28,7 +28,7 @@
     <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
 </p>
 
-#### I'ᴍ ᴀ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ ғʀᴏᴍ *Kᴏʟᴋᴀᴛᴀ*. Lᴏᴏᴋɪɴɢ ғᴏʀᴡᴀʀᴅ ᴛᴏ ᴇᴍᴇʀɢᴇ ᴀs ᴀ **FᴜʟʟSᴛᴀᴄᴋ** Dᴇᴠᴇʟᴏᴘᴇʀ.
+### I'ᴍ ᴀ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ ғʀᴏᴍ *Kᴏʟᴋᴀᴛᴀ*. Lᴏᴏᴋɪɴɢ ғᴏʀᴡᴀʀᴅ ᴛᴏ ᴇᴍᴇʀɢᴇ ᴀs ᴀ **FᴜʟʟSᴛᴀᴄᴋ** Dᴇᴠᴇʟᴏᴘᴇʀ.
 
 - 🏢 Currently working in [Cognizant](https://www.cognizant.com/) as a *Jr. Product Specialist*.
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
