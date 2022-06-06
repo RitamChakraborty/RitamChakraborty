@@ -440,6 +440,6 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <h2 id="repositories" align="center">
   <a href="https://github.com/RitamChakraborty/RitamChakraborty">
-  🔯 ⓈⓉⒶⓇ ⒾⓉ ⒾⒻ ⓎⓄⓊ ⓁⒾⓀⒺⒹ ⒾⓉ 🔯
+  🌟 ⓉⓄ ⓈⒽⓄⓌ 💖
   </a>
 </h2>
