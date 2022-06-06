@@ -424,7 +424,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br>
 
 <p align="center">
-  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=for-the-badge&label=seen%20by&extraCount=1000&color=007ec6&labelColor=007ec6&logo=github"/>
+  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=plastic&label=seen%20by&color=005384&logo=github"/>
 </p>
 
 <p>
