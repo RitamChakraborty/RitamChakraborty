@@ -440,6 +440,6 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </p>
 <h2 id="repositories" align="center">
   <a href="https://github.com/RitamChakraborty/RitamChakraborty">
-  🌟 ⓉⓄ ⓈⒽⓄⓌ 💖
+  🌟 &nbsp; ⓣ̴ⓞ&nbsp;&nbsp;ⓢ̴ⓗ̴ⓞ̴ⓦ &nbsp; 💖
   </a>
 </h2>
