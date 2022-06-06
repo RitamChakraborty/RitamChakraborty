@@ -10,7 +10,7 @@
     <br>
     <br>
     <br>
-    <a href="https://github.com/RitamChakraborty#user-content-repositories">Navigate to Bottom</a>
+    <a href="https://github.com/RitamChakraborty#user-content-repositories">NΛVIGΛTΣ TO BOTTOM</a>
     <br>
     <a href="https://github.com/RitamChakraborty#user-content-repositories" target="_self">
       <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
