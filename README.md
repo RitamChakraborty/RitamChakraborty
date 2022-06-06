@@ -235,13 +235,13 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 98081 Lines of Code ✍️**
+**From Hello World I have written 102210 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 412 Contributions in year 2022**
+**🏆 419 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
