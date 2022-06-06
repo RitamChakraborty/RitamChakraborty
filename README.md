@@ -402,7 +402,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <details>
   <summary align="center">
-   I'ᥣᥣ bᥱ ᥕᥲﻨtﻨᥒg for ᥲ <b>Hﻨ</b>&nbsp;&nbsp;❛ᴗ❛
+   I'ᥣᥣ bᥱ ᥕᥲιtιᥒg for ᥲ <b>Hﻨ</b>&nbsp;&nbsp;❛ᴗ❛
   </summary>
   <p align="center">
       <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
