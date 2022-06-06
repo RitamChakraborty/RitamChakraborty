@@ -28,13 +28,13 @@
     <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
 </p>
 
-I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullStack** Developer.
+#### I'ᴍ ᴀ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ ғʀᴏᴍ *Kᴏʟᴋᴀᴛᴀ*. Lᴏᴏᴋɪɴɢ ғᴏʀᴡᴀʀᴅ ᴛᴏ ᴇᴍᴇʀɢᴇ ᴀs ᴀ **FᴜʟʟSᴛᴀᴄᴋ** Dᴇᴠᴇʟᴏᴘᴇʀ.
 
 - 🏢 Currently working in [Cognizant](https://www.cognizant.com/) as a *Jr. Product Specialist*.
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
 - 🏫 Went to [Midnapore Collegiate School](http://midnaporecollegiateschool.org.in).
 
-> I'm a passionate developer, want to contribute to open source, and make friends while doing so! 😇
+> 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎, 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚠𝚑𝚒𝚕𝚎 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘! 😇
 
 <br>
 <hr>
@@ -47,7 +47,7 @@ I'm a Software Engineer from *Kolkata*. Looking forward to emerge as a **FullSta
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" hspace="70"/>
 </p>
 
-I'm focusing on increasing my knowledge in *Microservices* architecture. Learning about various CI/CD tools and methods, and also getting invested in **Cloud**.
+𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 *𝖬𝗂𝖼𝗋𝗈𝗌𝖾𝗋𝗏𝗂𝖼𝖾𝗌* 𝖺𝗋𝖼𝗁𝗂𝗍𝖾𝖼𝗍𝗎𝗋𝖾. 𝖫𝖾𝖺𝗋𝗇𝗂𝗇𝗀 𝖺𝖻𝗈𝗎𝗍 𝗏𝖺𝗋𝗂𝗈𝗎𝗌 𝖢𝖨/𝖢𝖣 𝗍𝗈𝗈𝗅𝗌 𝖺𝗇𝖽 𝗆𝖾𝗍𝗁𝗈𝖽𝗌, 𝖺𝗇𝖽 𝖺𝗅𝗌𝗈 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 **𝖢𝗅𝗈𝗎𝖽**.
 
 ### ⌨️ Languages I speak
 
@@ -192,7 +192,7 @@ I'm focusing on increasing my knowledge in *Microservices* architecture. Learnin
 <br>
 <br>
 
-> I've an *Ideapad* 100 from Lenovo. With a dual core 5005u processor. I've upgraded my RAM to 8GB, and replaced the HDD with a *Samsung 850 EVO* SSD, and put the hard disk in the disk drive caddy. This trusty guy is serving me for 6 years and counting. 🥰
+> 𝙸'𝚟𝚎 𝚊𝚗 *𝙸𝚍𝚎𝚊𝚙𝚊𝚍* 𝟷𝟶𝟶 𝚏𝚛𝚘𝚖 𝙻𝚎𝚗𝚘𝚟𝚘. 𝚆𝚒𝚝𝚑 𝚊 𝚍𝚞𝚊𝚕 𝚌𝚘𝚛𝚎 𝟻𝟶𝟶𝟻𝚞 𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛. 𝙸'𝚟𝚎 𝚞𝚙𝚐𝚛𝚊𝚍𝚎𝚍 𝚖𝚢 𝚁𝙰𝙼 𝚝𝚘 𝟾𝙶𝙱, 𝚊𝚗𝚍 𝚛𝚎𝚙𝚕𝚊𝚌𝚎𝚍 𝚝𝚑𝚎 𝙷𝙳𝙳 𝚠𝚒𝚝𝚑 𝚊 *𝚂𝚊𝚖𝚜𝚞𝚗𝚐 𝟾𝟻𝟶 𝙴𝚅𝙾* 𝚂𝚂𝙳, 𝚊𝚗𝚍 𝚙𝚞𝚝 𝚝𝚑𝚎 𝚑𝚊𝚛𝚍 𝚍𝚒𝚜𝚔 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚒𝚜𝚔 𝚍𝚛𝚒𝚟𝚎 𝚌𝚊𝚍𝚍𝚢. 𝚃𝚑𝚒𝚜 𝚝𝚛𝚞𝚜𝚝𝚢 𝚐𝚞𝚢 𝚒𝚜 𝚜𝚎𝚛𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛 𝟼 𝚢𝚎𝚊𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚞𝚗𝚝𝚒𝚗𝚐. 🥰
 
 
 <br>
