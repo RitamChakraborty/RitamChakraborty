@@ -423,10 +423,6 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br>
 <br>
 
-<p align="center">
-  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=plastic&label=seen%20by&color=005384&logo=github"/>
-</p>
-
 <p>
   <a href="./CREDITS.md" target="_blank">
     <img src="./assets/buttons/credits-btn.svg" alt="Credits">
@@ -437,7 +433,11 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </p>
 
 <br>
+<br>
 
+<p align="center">
+  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=plastic&label=seen%20by&color=005384&logo=github"/>
+</p>
 <h2 id="repositories" align="center">
   <a href="https://github.com/RitamChakraborty/RitamChakraborty">
   🌟 ⓉⓄ ⓈⒽⓄⓌ 💖
