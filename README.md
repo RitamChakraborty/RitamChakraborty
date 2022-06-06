@@ -10,9 +10,7 @@
     <br>
     <br>
     <br>
-    <a href="https://github.com/RitamChakraborty#user-content-repositories">
-      NΛVIGΛTΣ TO BOTTOM
-    </a>
+    <a href="https://github.com/RitamChakraborty#user-content-repositories">Navigate to Bottom</a>
     <br>
     <a href="https://github.com/RitamChakraborty#user-content-repositories" target="_self">
       <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
@@ -51,7 +49,7 @@
 
 ### I'ᴍ ғᴏᴄᴜsɪɴɢ ᴏɴ ɪɴᴄʀᴇᴀsɪɴɢ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ *Mɪᴄʀᴏsᴇʀᴠɪᴄᴇs ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ*. Lᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴠᴀʀɪᴏᴜs CI/CD ᴛᴏᴏʟs ᴀɴᴅ ᴍᴇᴛʜᴏᴅs, ᴀɴᴅ ᴀʟsᴏ ɢᴇᴛᴛɪɴɢ ɪɴᴠᴇsᴛᴇᴅ ɪɴ *Cʟᴏᴜᴅ*.
 
-### ⌨️ ᒪᗩᑎGᑌᗩGᕮS I SᑭᕮᗩK
+### ⌨️ ᒐᥲᥒɠᥙᥲɠᥱ⳽ Ꙇ Sρᥱᥲƙ
 
 <br>
 
@@ -78,7 +76,7 @@
 
 <br>
 
-### 🪄 ᖴᖇᗩᗰᕮᗯOᖇKS I KᑎOᗯ
+### 🪄 ᖴɾᥲຕᥱωoɾƙ⳽ Ꙇ Кᥒoω
 
 <br>
 
@@ -105,7 +103,7 @@
 
 <br>
 
-### 💾 ᗪᗩTᗩᗷᗩSᕮS I ᑌSᕮ
+### 💾 ᙃᥲtᥲᑲᥲ⳽ᥱ⳽ Ꙇ ᙀ⳽ᥱ
 
 <br>
 
@@ -129,7 +127,7 @@
 
 <br>
 
-### 🎨 ᒪIᗷᖇᗩᖇIᕮS I ᑌSᕮ ᖴOᖇ STYᒪIᑎG
+### 🎨 ᒐɩᑲɾᥲɾɩᥱ⳽ Ꙇ ᙀ⳽ᥱ ƒoɾ StყꙆɩᥒɠ
 
 <br>
 
@@ -150,7 +148,7 @@
 
 <br>
 
-### 🛠️ TOOᒪS I ᗷᑌIᒪᗪ STᑌᖴᖴ ᗯITᕼ
+### 🛠️ ƮooꙆ⳽ Ꙇ ᙖᥙɩꙆᑯ Stᥙƒƒ ωɩtᖾ
 
 <br>
 
@@ -404,7 +402,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <details>
   <summary align="center">
-    I'll be waiting for a <b>Hi</b>.
+   I'ᥣᥣ bᥱ ᥕᥲιtιᥒg for ᥲ <b>Hﻨ</b>&nbsp;&nbsp;❛ᴗ❛
   </summary>
   <p align="center">
       <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
