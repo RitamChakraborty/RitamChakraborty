@@ -25,6 +25,7 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 
 - [Canva](https://www.canva.com/) for making the banner gifs
 - The cute cats are from the *Mochi-Peach* sticker pack. Found most of theme from [tenor](https://tenor.com/search/mochi-stickers).
+- Custom fonts are from [discordfonts.net](https://discordfonts.net/).
 - The skill icons are from [skill-icons](https://github.com/tandpfun/skill-icons) repo by [tandpfun](https://github.com/tandpfun).
 - The github stats are from [github-stats-transparent](https://github.com/rahul-jha98/github-stats-transparent) repo by [rahul-jha98](https://github.com/rahul-jha98).
 - The trophies are from [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) repo by [ryo-ma](https://github.com/ryo-ma).
@@ -34,6 +35,9 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 - Waka-Time and coding stats are from [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) by [anmol098](https://github.com/anmol098). I'm using [WakaTime Plugin](https://wakatime.com/dashboard) for my IDEs.
 - StackOverflow stats are from [github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) repo by [omidnikrah](https://github.com/omidnikrah).
 - LeetCode stats are from [leetcode-stats](https://github.com/KnlnKS/leetcode-stats) by [KnlnKS](https://github.com/KnlnKS).
+- Buttons are from [forthebadge.com](https://forthebadge.com/generator)
+by [BraveUX](https://github.com/BraveUX)
+- Profile hit count from [hits.sh](https://hits.sh) made by [silentsoft](https://github.com/silentsoft).
 - And lastly I found out most of the resource from the repo [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) by [rzashakeri](https://github.com/rzashakeri). So a big thank you to the maintainers.
 
 > Please support the wonderful people for these fantastic tools.
