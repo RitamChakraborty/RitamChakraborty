@@ -43,5 +43,10 @@ by [BraveUX](https://github.com/BraveUX)
 > Please support the wonderful people for these fantastic tools.
 
 <h2 align="center">
-    𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦
+    𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦 
 </h2>
+<p align="center">
+꧁_____________._____________꧂
+<br>
+♡
+</p>
