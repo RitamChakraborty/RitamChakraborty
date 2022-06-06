@@ -41,12 +41,13 @@ by [BraveUX](https://github.com/BraveUX)
 - And lastly I found out most of the resource from the repo [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) by [rzashakeri](https://github.com/rzashakeri). So a big thank you to the maintainers.
 
 > Please support the wonderful people for these fantastic tools.
+
+<br>
+
 <h2 align="center">
-<br>
     𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦 
+    <br>
+    ꧁___________.___________꧂
+    <br>
+    ♡
 </h2>
-<p align="center">
-꧁_____________._____________꧂
-<br>
-♡
-</p>
