@@ -38,8 +38,6 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 
 > Please support the wonderful people for these fantastic tools.
 
-<br>
-
 <h2 align="center">
     𝕋𝕙𝕒𝕟𝕜 𝕐𝕠𝕦
-</p>
+</h2>
