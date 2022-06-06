@@ -431,7 +431,9 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <a href="./CREDITS.md">
     <img src="./assets/buttons/credits-btn.svg" alt="Credits">
   </a>
-  <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
+  <a href="https://github.com/RitamChakraborty/RitamChakraborty.github.io/blob/master/src/assets/documents/Ritam%20Chakraborty%20Resume.pdf">
+    <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
+  </a>
 </p>
 
 <br>
