@@ -428,10 +428,10 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 </p>
 
 <p>
-  <a href="./CREDITS.md">
+  <a href="./CREDITS.md" target="_blank">
     <img src="./assets/buttons/credits-btn.svg" alt="Credits">
   </a>
-  <a href="https://github.com/RitamChakraborty/RitamChakraborty.github.io/blob/master/src/assets/documents/Ritam%20Chakraborty%20Resume.pdf">
+  <a href="https://github.com/RitamChakraborty/RitamChakraborty.github.io/blob/master/src/assets/documents/Ritam%20Chakraborty%20Resume.pdf" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
 </p>
