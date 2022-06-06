@@ -424,7 +424,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=PROFILE%20VIEWS&style=for-the-badge&color=0088cc&logo=github&logoColor=white&query=score&url=http%3A%2F%2Fgitwar.herokuapp.com%2Fapi%2FRitamChakraborty" alt="Profile Views">
+  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=for-the-badge&label=seen%20by&extraCount=1000&color=007ec6&labelColor=007ec6&logo=github"/>
 </p>
 
 <p>
@@ -438,6 +438,8 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <br>
 
-<div id="repositories">
-
-</div>
+<h2 id="repositories" align="center">
+  <a href="https://github.com/RitamChakraborty/RitamChakraborty">
+  🔯 ⓈⓉⒶⓇ ⒾⓉ ⒾⒻ ⓎⓄⓊ ⓁⒾⓀⒺⒹ ⒾⓉ 🔯
+  </a>
+</h2>
