@@ -35,8 +35,7 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 - Waka-Time and coding stats are from [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) by [anmol098](https://github.com/anmol098). I'm using [WakaTime Plugin](https://wakatime.com/dashboard) for my IDEs.
 - StackOverflow stats are from [github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) repo by [omidnikrah](https://github.com/omidnikrah).
 - LeetCode stats are from [leetcode-stats](https://github.com/KnlnKS/leetcode-stats) by [KnlnKS](https://github.com/KnlnKS).
-- Buttons are from [forthebadge.com](https://forthebadge.com/generator)
-by [BraveUX](https://github.com/BraveUX)
+- Buttons are from [forthebadge.com](https://forthebadge.com) by [BraveUX](https://github.com/BraveUX).
 - Profile hit count from [hits.sh](https://hits.sh) made by [silentsoft](https://github.com/silentsoft).
 - And lastly I found out most of the resource from the repo [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) by [rzashakeri](https://github.com/rzashakeri). So a big thank you to the maintainers.
 
