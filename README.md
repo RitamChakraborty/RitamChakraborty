@@ -444,7 +444,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br>
 
 <p align="center">
-  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=plastic&label=seen%20by&color=005384&logo=github"/>
+  <img alt="Hits" src="https://hits.sh/github.com/RitamChakraborty/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
 <h2 id="repositories" align="center">
   <a href="https://github.com/RitamChakraborty/RitamChakraborty">
