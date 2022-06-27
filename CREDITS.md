@@ -31,7 +31,7 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 - The trophies are from [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) repo by [ryo-ma](https://github.com/ryo-ma).
 - The streak status is from [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) repo by [DenverCoder1](https://github.com/DenverCoder1).
 - Total loc and yearly contribution status from [github-readme-info](https://github.com/th3c0d3br34ker/github-readme-info) by [th3c0d3br34ker](https://github.com/th3c0d3br34ker).
-- Contribution calendar is from [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) by [https://github.com/yoshi389111](https://github.com/yoshi389111).
+- Contribution calendar is from [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) by [yoshi389111](https://github.com/yoshi389111).
 - Waka-Time and coding stats are from [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) by [anmol098](https://github.com/anmol098). I'm using [WakaTime Plugin](https://wakatime.com/dashboard) for my IDEs.
 - StackOverflow stats are from [github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) repo by [omidnikrah](https://github.com/omidnikrah).
 - LeetCode stats are from [leetcode-stats](https://github.com/KnlnKS/leetcode-stats) by [KnlnKS](https://github.com/KnlnKS).
