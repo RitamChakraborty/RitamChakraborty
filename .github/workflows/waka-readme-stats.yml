@@ -16,8 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "True"
           SHOW_LOC_CHART: "False"
-          COMMIT_BY_ME: "False"
-          COMMIT_MESSAGE: "Update README stats"
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
