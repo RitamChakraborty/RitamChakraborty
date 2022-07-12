@@ -378,7 +378,7 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 - [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 years old *Hero Ranger* recently. Have great memories with it. 
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
-- [x] 😏 And of course smug smiling with my friend [Shuktika](https://github.com/Shuktika15) who made a valuable contribution in making this README.
+- [x] 😏 And of course smug smiling with my girlfriend 𝗦♡𝗵heart𝘂♡𝗸heart𝘁♡𝗶heart𝗸♡𝗮 who made a valuable contribution in making this README. Love you as always sweetie. 😘
 
 <br>
 <hr>
