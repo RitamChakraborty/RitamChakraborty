@@ -414,6 +414,8 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </summary>
   <p align="center">
       <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
+  </p>
+  <p align="center">
       <img src="./assets/cats/check-phone-dark.gif#gh-dark-mode-only" alt="check-phone" height="240" width="250" />
   </p>
 </details>
@@ -424,6 +426,8 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <p align="center">
   <img src="./assets/headers/meow-light.gif#gh-light-mode-only" alt="meow" />
   <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" alt="cat-in-box" height="280" />
+</p>
+<p align="center">
   <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only" alt="meow" />
   <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
 </p>
