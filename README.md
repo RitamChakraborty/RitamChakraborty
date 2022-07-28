@@ -2,8 +2,8 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/ola-amigos-light.gif#gh-light-mode-only" width="400" alt="ola-amigos" hspace="50">
-    <img src="./assets/headers/ola-amigos-dark.gif#gh-dark-mode-only" width="400" alt="ola-amigos" hspace="50">
+    <img src="./assets/headers/ola-amigos-light.gif#gh-light-mode-only" width="350" alt="ola-amigos" hspace="50">
+    <img src="./assets/headers/ola-amigos-dark.gif#gh-dark-mode-only" width="350" alt="ola-amigos" hspace="50">
     <img src="./assets/cats/hello-light.gif#gh-light-mode-only" alt="hello" height="220" width="210" />
     <img src="./assets/cats/hello-dark.gif#gh-dark-mode-only" alt="hello" height="220" width="210" />
     <br>
@@ -22,8 +22,8 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" alt="about-me" width="400">
-    <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" alt="about-me" width="400">
+    <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" alt="about-me" width="350">
+    <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" alt="about-me" width="350">
     <img src="./assets/cats/smart-light.gif#gh-light-mode-only" alt="smart-cat" height="200" width="200" />
     <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
 </p>
@@ -200,8 +200,8 @@
 <br>
 
 <p align="center">
-  <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="400">
-  <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="400">
+  <img src="./assets/headers/the-numbers-light.gif#gh-light-mode-only" alt="numbers" width="350">
+  <img src="./assets/headers/the-numbers-dark.gif#gh-dark-mode-only" alt="numbers" width="350">
   <img src="./assets/cats/stats-light.gif#gh-light-mode-only" alt="glowing-cat" height="230" width="240" />
   <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
 </p>
@@ -368,8 +368,8 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br>
 
 <p align="center">
-    <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" alt="fun-facts" width="400">
-    <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" alt="fun-facts" width="400">
+    <img src="./assets/headers/fun-fact-light.gif#gh-light-mode-only" alt="fun-facts" width="350">
+    <img src="./assets/headers/fun-fact-dark.gif#gh-dark-mode-only" alt="fun-facts" width="350">
     <img src="./assets/cats/drink-light.gif#gh-light-mode-only" alt="drinking-cat" height="200" width="210" />
     <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="220" width="212" />
 </p>
@@ -385,8 +385,8 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <br>
 
 <p align="center">
-    <img src="./assets/headers/wanna-talk-light.gif#gh-light-mode-only" alt="wanna-talk" width="400">
-    <img src="./assets/headers/wanna-talk-dark.gif#gh-dark-mode-only" alt="wanna-talk" width="400">
+    <img src="./assets/headers/wanna-talk-light.gif#gh-light-mode-only" alt="wanna-talk" width="350">
+    <img src="./assets/headers/wanna-talk-dark.gif#gh-dark-mode-only" alt="wanna-talk" width="350">
     <img src="./assets/cats/scrolling-phone-light.gif#gh-light-mode-only" alt="scrolling-phone" height="220" width="220" />
     <img src="./assets/cats/scrolling-phone-dark.gif#gh-dark-mode-only" alt="scrolling-phone" height="220" width="220" />
 </p>
