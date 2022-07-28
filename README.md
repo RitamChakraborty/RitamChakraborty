@@ -42,8 +42,8 @@
 
 <p align="center">
     <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400" />
-    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400" />
     <img src="./assets/cats/typing-light.gif#gh-light-mode-only" alt="typing-cat" height="220" width="200" />
+    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400" />
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
