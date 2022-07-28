@@ -41,10 +41,10 @@
 <br>
 
 <p align="center">
-    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400" hspace="50" />
-    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400" hspace="50" />
-    <img src="./assets/cats/typing-light.gif#gh-light-mode-only" alt="typing-cat" height="220" width="200" hspace="70"/>
-    <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" hspace="70"/>
+    <img src="./assets/headers/currently-typing-light.gif#gh-light-mode-only" alt="currently-typing" width="400" />
+    <img src="./assets/headers/currently-typing-dark.gif#gh-dark-mode-only" alt="currently-typing" width="400" />
+    <img src="./assets/cats/typing-light.gif#gh-light-mode-only" alt="typing-cat" height="220" width="200" />
+    <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
 ### I'ᴍ ғᴏᴄᴜsɪɴɢ ᴏɴ ɪɴᴄʀᴇᴀsɪɴɢ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ *Mɪᴄʀᴏsᴇʀᴠɪᴄᴇs ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ*. Lᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴠᴀʀɪᴏᴜs CI/CD ᴛᴏᴏʟs ᴀɴᴅ ᴍᴇᴛʜᴏᴅs, ᴀɴᴅ ᴀʟsᴏ ɢᴇᴛᴛɪɴɢ ɪɴᴠᴇsᴛᴇᴅ ɪɴ *Cʟᴏᴜᴅ*.
