@@ -424,8 +424,8 @@ Shell                    1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <p align="center">
   <img src="./assets/headers/meow-light.gif#gh-light-mode-only" alt="meow" />
   <img src="./assets/headers/meow-dark.gif#gh-dark-mode-only" alt="meow" />
-  <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" alt="cat-in-box" height="280" />
-  <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" />
+  <!-- <img src="./assets/cats/cat-in-box-light.gif#gh-light-mode-only" alt="cat-in-box" height="280" />
+  <img src="./assets/cats/cat-in-box-dark.gif#gh-dark-mode-only" alt="cat-in-box" height="280" width="280" /> -->
 </p>
 
 <br>
