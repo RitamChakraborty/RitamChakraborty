@@ -30,7 +30,7 @@
 
 ### I'ᴍ ᴀ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ ғʀᴏᴍ *Kᴏʟᴋᴀᴛᴀ*. Lᴏᴏᴋɪɴɢ ғᴏʀᴡᴀʀᴅ ᴛᴏ ᴇᴍᴇʀɢᴇ ᴀs ᴀ **FᴜʟʟSᴛᴀᴄᴋ** Dᴇᴠᴇʟᴏᴘᴇʀ.
 
-- 🏢 Currently working in [Cognizant](https://www.cognizant.com/) as a *Jr. Product Specialist*.
+- 🏢 Currently working in [Cresen Solutions](https://cresensolutions.com/) as a *Software Engineer*.
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
 - 🏫 Went to [Midnapore Collegiate School](http://midnaporecollegiateschool.org.in).
 
