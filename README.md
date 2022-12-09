@@ -235,13 +235,13 @@
 <br>
 
 <!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 0 Lines of Code ✍️**
+**From Hello World I have written 139951 Lines of Code ✍️**
 
 
 <!--END_SECTION_LINES_OF_CODE:readme-info-->
 
 <!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,035 Contributions in year 2022**
+**🏆 1,036 Contributions in year 2022**
 
 
 <!--END_CONTRIBUTIONS:readme-info-->
