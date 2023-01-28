@@ -8,16 +8,19 @@ And I specially want to thank **Shuktika Mahanty** for her invaluable contributi
 
 <p align="center">
     <a href="https://github.com/Shuktika15">
-        <img src="https://img.shields.io/badge/Follow-Github-lightgrey?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" hspace="10">
+        <img src="https://img.shields.io/badge/Follow-Github-lightgrey?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" hspace="5">
+    </a>
+    <a href="https://in.linkedin.com/in/shuktika-mahanty">
+        <img src="https://img.shields.io/badge/Follow-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" hspace="5">
     </a>
     <a href="https://www.facebook.com/ShuktikaMahanty">
-        <img src="https://img.shields.io/badge/Follow-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" hspace="10">
+        <img src="https://img.shields.io/badge/Follow-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=ffffff" alt="Facebook" hspace="5">
     </a>
     <a href="https://www.instagram.com/shuktikamahanty">
-        <img src="https://img.shields.io/badge/Follow-Instagram-red?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" hspace="10">
+        <img src="https://img.shields.io/badge/Follow-Instagram-red?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" hspace="5">
     </a>
     <a href="https://www.pinterest.ru/shuktikam">
-        <img src="https://img.shields.io/badge/Follow-Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=ffffff" alt="Pinterest" hspace="10">
+        <img src="https://img.shields.io/badge/Follow-Pinterest-red?style=for-the-badge&logo=pinterest&logoColor=ffffff" alt="Pinterest" hspace="5">
     </a>
 </p>
 
