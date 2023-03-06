@@ -206,15 +206,6 @@
   <img src="./assets/cats/stats-dark.gif#gh-dark-mode-only" alt="glowing-cat" height="200" width="200" />
 </p>
 
-<br> 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
-  <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
-</p>
-
-<br>
-
 <p align="center">
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=algolia&title=Commits">
@@ -230,90 +221,15 @@
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
   </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
+    <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
+  </p>
+  <p align="center">
+    <img src="./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="Contribution Calendar">
+    <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" alt="Contribution Calendar">
+  </p>
 </p>
-
-<br>
-
-<!--START_SECTION_LINES_OF_CODE:readme-info-->
-**From Hello World I have written 0 Lines of Code ✍️**
-
-
-<!--END_SECTION_LINES_OF_CODE:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 234 Contributions in year 2023**
-
-
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<details>
-  <summary>📈 Contribution Calendar</summary>
-  <br>
-  <img src="./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="Contribution Calendar">
-  <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" alt="Contribution Calendar">
-</details>
-
-<!--START_SECTION:waka-->
-**I Mostly Code in Java** 
-
-```text
-Java                     22 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.89 % 
-TypeScript               6 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.33 % 
-Dart                     5 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.11 % 
-JavaScript               5 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.11 % 
-Shell                    2 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.44 % 
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-<details>
-  <summary>👨‍💻 Other Coding Profiles</summary>
-  <br>
-  <table>
-    <thead>
-      <tr>
-        <th>Platform</th>
-        <th>Progress</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
-            StackOverflow
-          </a>
-        </td>
-        <td>
-          <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty#gh-light-mode-only">
-            <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=light&layout=compact#gh-light-mode-only" width="400"/>
-          </a>
-          <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty#gh-dark-mode-only">
-            <img alt="LeetCode Stat Card" src="https://github-readme-stackoverflow.vercel.app/?userID=10644028&theme=dark&layout=compact#gh-dark-mode-only" width="400"/>
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://leetcode.com/RitamChakraborty">
-            LeetCode
-          </a>
-        </td>
-        <td>
-          <a href="https://leetcode.com/RitamChakraborty#gh-light-mode-only">
-            <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=light#gh-light-mode-only" width="400"/>
-          </a>
-          <a href="https://leetcode.com/RitamChakraborty#gh-dark-mode-only">
-            <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark#gh-dark-mode-only" width="400"/>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</a>
-</details>
 
 <br>
 <hr>
