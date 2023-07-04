@@ -207,7 +207,7 @@
     <img src="./assets/tools/linux-dark.svg#gh-dark-mode-only" alt="Linux" height="60" hspace="10" >
   </a>
   <!-- Docker -->
-  <a href="https://www.docker.com#gh-light-mode-only">
+  <a href="https://www.docker.com">
     <img src="./assets/tools/docker.svg#gh-light-mode-only" alt="Docker" height="60" hspace="10" >
   </a>
   <!-- Figma -->
