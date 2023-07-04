@@ -192,11 +192,15 @@
     <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
     <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/languages.svg" alt="language-stats" height="200">
   </p>
+</p>
+
+<details>
+  <summary>𝓒𝓸𝓷𝓽𝓻𝓫𝓾𝓽𝓲𝓸𝓷𝓼 𝓸𝓯 𝓽𝓱𝓲𝓼 𝔂𝓮𝓪𝓻</summary>
   <p align="center">
     <img src="./profile-3d-contrib/profile-season-animate.svg#gh-light-mode-only" alt="Contribution Calendar">
     <img src="./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only" alt="Contribution Calendar">
   </p>
-</p>
+</details>
 
 <br>
 <hr>
@@ -245,7 +249,7 @@
 
 <details>
   <summary align="center">
-   I'ᥣᥣ bᥱ ᥕᥲιtιᥒg for ᥲ <b>Hﻨ</b>&nbsp;&nbsp;❛ᴗ❛
+   𝓘'𝓵𝓵 𝓫𝓮 𝔀𝓪𝓲𝓽𝓲𝓷𝓰 𝓯𝓸𝓻 𝓪&nbsp; <b>𝓗𝓲</b>&nbsp;&nbsp;&nbsp;❛ᴗ❛
   </summary>
   <p align="center">
       <img src="./assets/cats/check-phone-light.gif#gh-light-mode-only" alt="check-phone" height="250" width="230" />
