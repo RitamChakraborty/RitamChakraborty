@@ -28,7 +28,7 @@
     <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
 </p>
 
-### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
+#### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
 - 🏢 Currently working in [Cresen Solutions](https://cresensolutions.com/) as a *Software Engineer*.
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
@@ -47,9 +47,9 @@
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
-### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *𝖢𝗅𝗈𝗎𝖽*.
+#### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *𝖢𝗅𝗈𝗎𝖽*.
 
-## ⌨️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐈 𝐒𝐩𝐞𝐚𝐤
+### ⌨️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐈 𝐒𝐩𝐞𝐚𝐤
 
 <br>
 
@@ -76,7 +76,7 @@
 
 <br>
 
-## 🥋 𝐌𝐚𝐫𝐭𝐢𝐚𝐥 𝐀𝐫𝐭𝐬 𝐈 𝐊𝐧𝐨𝐰
+### 🥋 𝐌𝐚𝐫𝐭𝐢𝐚𝐥 𝐀𝐫𝐭𝐬 𝐈 𝐊𝐧𝐨𝐰
 
 <br>
 
@@ -103,7 +103,7 @@
 
 <br>
 
-## 🗄️ 𝐏𝐥𝐚𝐜𝐞𝐬 𝐖𝐡𝐞𝐫𝐞 𝐈 𝐊𝐞𝐞𝐩 𝐌𝐲 𝐒𝐭𝐮𝐟𝐟
+### 🗄️ 𝐏𝐥𝐚𝐜𝐞𝐬 𝐖𝐡𝐞𝐫𝐞 𝐈 𝐊𝐞𝐞𝐩 𝐌𝐲 𝐒𝐭𝐮𝐟𝐟
 
 <br>
 
@@ -127,7 +127,7 @@
 
 <br>
 
-## 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐨𝐟 𝐌𝐲 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩
+### 🛠️ 𝐓𝐨𝐨𝐥𝐬 𝐨𝐟 𝐌𝐲 𝐖𝐨𝐫𝐤𝐬𝐡𝐨𝐩
 
 <br>
 
@@ -159,12 +159,6 @@
   <img src="./assets/tools/deepin.png" alt="Deepin" height="45" hspace="20">
 </a>
 <span>Started with <i>Windows</i>. Then switched to <i>Ubuntu</i>. That was my first introduction to Linux. Finally found out about <b>Deepin</b>, and I instantly fell in love with it. And don't have plans to hop any time soon. 😌</span>
-
-<br>
-<br>
-
-> 𝙸'𝚟𝚎 𝚊𝚗 *𝙸𝚍𝚎𝚊𝚙𝚊𝚍* 𝟷𝟶𝟶 𝚏𝚛𝚘𝚖 𝙻𝚎𝚗𝚘𝚟𝚘. 𝚆𝚒𝚝𝚑 𝚊 𝚍𝚞𝚊𝚕 𝚌𝚘𝚛𝚎 𝟻𝟶𝟶𝟻𝚞 𝚙𝚛𝚘𝚌𝚎𝚜𝚜𝚘𝚛. 𝙸'𝚟𝚎 𝚞𝚙𝚐𝚛𝚊𝚍𝚎𝚍 𝚖𝚢 𝚁𝙰𝙼 𝚝𝚘 𝟾𝙶𝙱, 𝚊𝚗𝚍 𝚛𝚎𝚙𝚕𝚊𝚌𝚎𝚍 𝚝𝚑𝚎 𝙷𝙳𝙳 𝚠𝚒𝚝𝚑 𝚊 *𝚂𝚊𝚖𝚜𝚞𝚗𝚐 𝟾𝟻𝟶 𝙴𝚅𝙾* 𝚂𝚂𝙳, 𝚊𝚗𝚍 𝚙𝚞𝚝 𝚝𝚑𝚎 𝚑𝚊𝚛𝚍 𝚍𝚒𝚜𝚔 𝚒𝚗 𝚝𝚑𝚎 𝚍𝚒𝚜𝚔 𝚍𝚛𝚒𝚟𝚎 𝚌𝚊𝚍𝚍𝚢. 𝚃𝚑𝚒𝚜 𝚝𝚛𝚞𝚜𝚝𝚢 𝚐𝚊𝚕 𝚒𝚜 𝚜𝚎𝚛𝚟𝚒𝚗𝚐 𝚖𝚎 𝚏𝚘𝚛 𝟼 𝚢𝚎𝚊𝚛𝚜 𝚊𝚗𝚍 𝚌𝚘𝚞𝚗𝚝𝚒𝚗𝚐. 🥰
-
 
 <br>
 <hr>
