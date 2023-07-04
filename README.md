@@ -28,7 +28,7 @@
     <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
 </p>
 
-### I'ᴍ ᴀ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴᴇᴇʀ ғʀᴏᴍ *Kᴏʟᴋᴀᴛᴀ*. Lᴏᴏᴋɪɴɢ ғᴏʀᴡᴀʀᴅ ᴛᴏ ᴇᴍᴇʀɢᴇ ᴀs ᴀ **FᴜʟʟSᴛᴀᴄᴋ** Dᴇᴠᴇʟᴏᴘᴇʀ.
+### 𝓘'ᴍ ᴀ 𝓢ᴏғᴛᴡᴀʀᴇ 𝓔ɴɢɪɴᴇᴇʀ ғʀᴏᴍ *𝓚ᴏʟᴋᴀᴛᴀ*. 𝓛ᴏᴏᴋɪɴɢ ғᴏʀᴡᴀʀᴅ ᴛᴏ ᴇᴍᴇʀɢᴇ ᴀ𝓼 ᴀ **𝓕ᴜʟʟ𝓢ᴛᴀᴄᴋ** 𝓓ᴇᴠᴇʟᴏᴘᴇʀ.
 
 - 🏢 Currently working in [Cresen Solutions](https://cresensolutions.com/) as a *Software Engineer*.
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
@@ -47,9 +47,9 @@
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
-### I'ᴍ ғᴏᴄᴜsɪɴɢ ᴏɴ ɪɴᴄʀᴇᴀsɪɴɢ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ *Mɪᴄʀᴏsᴇʀᴠɪᴄᴇs ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ*. Lᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴠᴀʀɪᴏᴜs CI/CD ᴛᴏᴏʟs ᴀɴᴅ ᴍᴇᴛʜᴏᴅs, ᴀɴᴅ ᴀʟsᴏ ɢᴇᴛᴛɪɴɢ ɪɴᴠᴇsᴛᴇᴅ ɪɴ *Cʟᴏᴜᴅ*.
+### 𝐈'ᴍ ғᴏᴄᴜ𝐬ɪɴɢ ᴏɴ ɪɴᴄʀᴇᴀ𝐬ɪɴɢ ᴍʏ ᴋɴᴏᴡʟᴇᴅɢᴇ ɪɴ 𝐯𝐚𝐫𝐢𝐨𝐮𝐬 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐨𝐟 *𝐅𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭*. ᴀɴᴅ ᴀʟ𝐬ᴏ ɢᴇᴛᴛɪɴɢ ɪɴᴠᴇ𝐬ᴛᴇᴅ ɪɴ *𝐂ʟᴏᴜᴅ*.
 
-### ⌨️ ᒪᗩᑎGᑌᗩGᕮS I SᑭᕮᗩK
+### ⌨️ ᒪ𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤 𝕀 𝕊𝕡𝕖𝕒𝕜
 
 <br>
 
@@ -76,7 +76,7 @@
 
 <br>
 
-### 🪄 ᖴᖇᗩᗰᕮᗯOᖇKS I KᑎOᗯ
+### 🥋 𝕄𝕒𝕣𝕥𝕚𝕒𝕝 𝔸𝕣𝕥𝕤 𝕀 𝕂𝕟𝕠𝕨
 
 <br>
 
@@ -103,7 +103,7 @@
 
 <br>
 
-### 💾 ᗪᗩTᗩᗷᗩSᕮS I ᑌSᕮ
+### 🗄️ ℙ𝕝𝕒𝕔𝕖𝕤 𝕎𝕙𝕖𝕣𝕖 𝕀 𝕂𝕖𝕖𝕡 𝕊𝕥𝕒𝕗𝕗𝕤
 
 <br>
 
@@ -127,28 +127,7 @@
 
 <br>
 
-### 🎨 ᒪIᗷᖇᗩᖇIᕮS I ᑌSᕮ ᖴOᖇ STYᒪIᑎG
-
-<br>
-
-<p align="center">
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html">
-    <img src="./assets/styling/css.svg" alt="CSS" height="60" hspace="10" >
-  </a>
-  <a href="https://sass-lang.com">
-    <img src="./assets/styling/scss.svg" alt="SCSS" height="60" hspace="10" >
-  </a>
-  <a href="https://getbootstrap.com">
-    <img src="./assets/styling/bootstrap.svg" alt="Bootstrap" height="60" hspace="10" >
-  </a>
-  <a href="https://material.angular.io">
-    <img src="./assets/styling/angularmaterial.png" alt="Angular Material" height="60" hspace="7" >
-  </a>
-</p>
-
-<br>
-
-### 🛠️ TOOᒪS I ᗷᑌIᒪᗪ STᑌᖴᖴ ᗯITᕼ
+### 🛠️ 𝕋𝕆𝕆ᒪ𝕊 𝕠𝕗 𝕄𝕪 𝕎𝕠𝕣𝕜𝕤𝕙𝕠𝕡
 
 <br>
 
@@ -156,14 +135,6 @@
   <img src="./assets/tools/idea.png" alt="Itellj IDEA" height="40" hspace="20">
 </a>
 <span>Wrote my first <code>Hello, World!</code> in <i>Intellj IDEA</i> and never looked back.</span>
-
-<br>
-<br>
-
-<a href="https://www.jetbrains.com/webstorm">
-  <img src="./assets/tools/webstorm.png" alt="WebStorm" height="40" hspace="20">
-</a> 
-<span>May sound weird but I prefer <i>WebStorm</i> over <i>VSCode</i>.</span>
 
 <br>
 <br>
