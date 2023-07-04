@@ -55,23 +55,41 @@
 <br>
 
 <p align="center">
+  <!-- Java -->
   <a href="https://www.java.com#gh-light-mode-only">
     <img src="./assets/languages/java-light.svg#gh-light-mode-only" alt="Java" alt="Java" height="60" hspace="10" />
   </a>
   <a href="https://www.java.com#gh-dark-mode-only">
     <img src="./assets/languages/java-dark.svg#gh-dark-mode-only" alt="Java" height="60" hspace="10" />
   </a>
+  <!-- Kotlin -->
+  <a href="https://kotlinlang.org#gh-light-mode-only">
+    <img src="./assets/languages/kotlin-light.svg#gh-light-mode-only" alt="Kotlin" alt="Java" height="60" hspace="10" />
+  </a>
+  <a href="https://kotlinlang.org/#gh-dark-mode-only">
+    <img src="./assets/languages/kotlin-dark.svg#gh-dark-mode-only" alt="Kotlin" height="60" hspace="10" />
+  </a>
+  <!-- JavaScript -->
   <a href="https://www.javascript.com">
     <img src="./assets/languages/javascript.svg" alt="JavaScript" height="60" hspace="10" >
   </a>
+  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org">
     <img src="./assets/languages/typescript.svg" alt="TypeScript" height="60" hspace="10" >
   </a>
+  <!-- Dart -->
   <a href="https://dart.dev#gh-light-mode-only">
     <img src="./assets/languages/dart-light.svg#gh-light-mode-only" alt="Dart" height="60" hspace="10" >
   </a>
   <a href="https://dart.dev#gh-dark-mode-only">
     <img src="./assets/languages/dart-dark.svg#gh-dark-mode-only" alt="Dart" height="60" hspace="10" >
+  </a>
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash#gh-light-mode-only">
+    <img src="./assets/languages/bash-light.svg#gh-light-mode-only" alt="Bash" height="60" hspace="10" >
+  </a>
+  <a href="https://www.gnu.org/software/bash#gh-dark-mode-only">
+    <img src="./assets/languages/bash-dark.svg#gh-dark-mode-only" alt="Bash" height="60" hspace="10" >
   </a>
 </p>
 
@@ -82,18 +100,42 @@
 <br>
 
 <p align="center">
+  <!-- Spring Boot -->
   <a href="https://spring.io#gh-light-mode-only">
     <img src="./assets/frameworks/spring-light.svg#gh-light-mode-only" alt="Spring" height="60" hspace="10" >
   </a>
   <a href="https://spring.io#gh-dark-mode-only">
     <img src="./assets/frameworks/spring-dark.svg#gh-dark-mode-only" alt="Spring" height="60" hspace="10" >
   </a>
+  <!-- Angular -->
   <a href="https://angular.io#gh-light-mode-only">
     <img src="./assets/frameworks/angular-light.svg#gh-light-mode-only" alt="Angular" height="60" hspace="10" >
   </a>
   <a href="https://angular.io#gh-dark-mode-only">
     <img src="./assets/frameworks/angular-dark.svg#gh-dark-mode-only" alt="Angular" height="60" hspace="10" >
   </a>
+  <!-- React -->
+  <a href="https://react.dev#gh-light-mode-only">
+    <img src="./assets/frameworks/react-light.svg#gh-light-mode-only" alt="React" height="60" hspace="10" >
+  </a>
+  <a href="https://react.dev#gh-dark-mode-only">
+    <img src="./assets/frameworks/react-dark.svg#gh-dark-mode-only" alt="React" height="60" hspace="10" >
+  </a>
+  <!-- SolidJS -->
+  <a href="https://www.solidjs.com#gh-light-mode-only">
+    <img src="./assets/frameworks/solidjs-light.svg#gh-light-mode-only" alt="SolidJS" height="60" hspace="10" >
+  </a>
+  <a href="https://www.solidjs.com#gh-dark-mode-only">
+    <img src="./assets/frameworks/solidjs-dark.svg#gh-dark-mode-only" alt="SolidJS" height="60" hspace="10" >
+  </a>
+  <!-- Deno -->
+  <a href="https://deno.land#gh-light-mode-only">
+    <img src="./assets/frameworks/deno-light.svg#gh-light-mode-only" alt="Deno" height="60" hspace="10" >
+  </a>
+  <a href="https://deno.land#gh-dark-mode-only">
+    <img src="./assets/frameworks/deno-dark.svg#gh-dark-mode-only" alt="Deno" height="60" hspace="10" >
+  </a>
+  <!-- Flutter -->
   <a href="https://flutter.dev#gh-light-mode-only">
     <img src="./assets/frameworks/flutter-light.svg#gh-light-mode-only" alt="Flutter" height="60" hspace="10" >
   </a>
@@ -109,15 +151,25 @@
 <br>
 
 <p align="center">
+  <!-- MySQL -->
+  <a href="https://www.postgresql.org#gh-light-mode-only">
+    <img src="./assets/databases/postgres-light.svg#gh-light-mode-only" alt="PostgreSQL" height="60" hspace="10" >
+  </a>
+  <a href="https://www.postgresql.org#gh-dark-mode-only">
+    <img src="./assets/databases/postgres-dark.svg#gh-dark-mode-only" alt="PostgreSQL" height="60" hspace="10" >
+  </a>
+  <!-- MySQL -->
   <a href="https://www.mysql.com#gh-light-mode-only">
     <img src="./assets/databases/mysql-light.svg#gh-light-mode-only" alt="MySQL" height="60" hspace="10" >
   </a>
   <a href="https://www.mysql.com#gh-dark-mode-only">
     <img src="./assets/databases/mysql-dark.svg#gh-dark-mode-only" alt="MySQL" height="60" hspace="10" >
   </a>
+  <!-- MongoDB -->
   <a href="https://www.mongodb.com">
     <img src="./assets/databases/mongodb.svg" alt="MongoDB" height="60" hspace="10" >
   </a>
+  <!-- Firebase -->
   <a href="https://firebase.google.com#gh-light-mode-only">
     <img src="./assets/databases/firebase-light.svg#gh-light-mode-only" alt="Firebase" height="60" hspace="10" >
   </a>
@@ -132,26 +184,40 @@
 
 <br>
 
-<a href="https://www.jetbrains.com/idea">
-  <img src="./assets/tools/idea.png" alt="Itellj IDEA" height="40" hspace="20">
-</a>
-<span>Wrote my first <code>Hello, World!</code> in <i>Intellj IDEA</i> and never looked back.</span>
-
-<br>
-<br>
-
-<a href="https://developer.android.com/studio">
-  <img src="./assets/tools/androidstudio.png" alt="Android Studio" height="40" hspace="20">
-</a>
-<span>Use <i>Android Studio</i> for casual Flutter development.</span>
-
-<br>
-<br>
-
-<a href="https://code.visualstudio.com">
-  <img src="./assets/tools/vscode.png" alt="Visual Studio Code" height="45" hspace="20">
-</a>
-<span>Use <i>VSCode</i> for viewing projects quickly.</span>
+<p align="center">
+  <!-- IntellJ IDEA -->
+  <a href="https://www.jetbrains.com/idea#gh-light-mode-only">
+    <img src="./assets/tools/idea-light.svg#gh-light-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
+  </a>
+  <a href="https://www.jetbrains.com/idea#gh-dark-mode-only">
+    <img src="./assets/tools/idea-dark.svg#gh-dark-mode-only" alt="IntellJ IDEA" height="60" hspace="10" >
+  </a>
+  <!-- Visual Studio Code -->
+  <a href="https://code.visualstudio.com#gh-light-mode-only">
+    <img src="./assets/tools/vscode-light.svg#gh-light-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
+  </a>
+  <a href="https://code.visualstudio.com#gh-dark-mode-only">
+    <img src="./assets/tools/vscode-dark.svg#gh-dark-mode-only" alt="Visual Studio Code" height="60" hspace="10" >
+  </a>
+  <!-- Linux -->
+  <a href="https://www.linux.org#gh-light-mode-only">
+    <img src="./assets/tools/linux-light.svg#gh-light-mode-only" alt="" height="60" hspace="10" >
+  </a>
+  <a href="https://www.linux.org#gh-dark-mode-only">
+    <img src="./assets/tools/linux-dark.svg#gh-dark-mode-only" alt="Linux" height="60" hspace="10" >
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com#gh-light-mode-only">
+    <img src="./assets/tools/docker.svg#gh-light-mode-only" alt="Docker" height="60" hspace="10" >
+  </a>
+  <!-- Figma -->
+  <a href="hhttps://www.figma.com#gh-light-mode-only">
+    <img src="./assets/tools/figma-light.svg#gh-light-mode-only" alt="Figma" height="60" hspace="10" >
+  </a>
+  <a href="https://www.figma.com#gh-dark-mode-only">
+    <img src="./assets/tools/figma-dark.svg#gh-dark-mode-only" alt="Figma" height="60" hspace="10" >
+  </a>
+</p>
 
 <br>
 <br>
@@ -159,7 +225,7 @@
 <a href="https://www.deepin.org/en">
   <img src="./assets/tools/deepin.png" alt="Deepin" height="45" hspace="20">
 </a>
-<span>Started with <i>Windows</i>. Then switched to <i>Ubuntu</i>. That was my first introduction to Linux. Finally found out about <b>Deepin</b>, and I instantly fell in love with it. And don't have plans to hop any time soon. 😌</span>
+<span>𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝗐𝗂𝗍𝗁 <i>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</i>. 𝖳𝗁𝖾𝗇 𝗌𝗐𝗂𝗍𝖼𝗁𝖾𝖽 𝗍𝗈 <i>𝖴𝖻𝗎𝗇𝗍𝗎</i>. 𝖳𝗁𝖺𝗍 𝗐𝖺𝗌 𝗆𝗒 𝖿𝗂𝗋𝗌𝗍 𝗂𝗇𝗍𝗋𝗈𝖽𝗎𝖼𝗍𝗂𝗈𝗇 𝗍𝗈 𝖫𝗂𝗇𝗎𝗑. 𝖥𝗂𝗇𝖺𝗅𝗅𝗒 𝖿𝗈𝗎𝗇𝖽 𝗈𝗎𝗍 𝖺𝖻𝗈𝗎𝗍 <b>𝖣𝖾𝖾𝗉𝗂𝗇</b>, 𝖺𝗇𝖽 𝖨 𝗂𝗇𝗌𝗍𝖺𝗇𝗍𝗅𝗒 𝖿𝖾𝗅𝗅 𝗂𝗇 𝗅𝗈𝗏𝖾 𝗐𝗂𝗍𝗁 𝗂𝗍. 𝖠𝗇𝖽 𝖽𝗈𝗇'𝗍 𝗁𝖺𝗏𝖾 𝗉𝗅𝖺𝗇𝗌 𝗍𝗈 𝗁𝗈𝗉 𝖺𝗇𝗒 𝗍𝗂𝗆𝖾 𝗌𝗈𝗈𝗇. 😌</span>
 
 <br>
 <br>
