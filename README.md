@@ -10,7 +10,7 @@
     <br>
     <br>
     <br>
-    <a href="#repositories">NΛVIGΛTΣ TO BOTTOM</a>
+    <br>
     <br>
     <a href="#repositories" target="_self">
       <img src="./assets/icons/scroll-down.gif" alt="scroll-down" height="50">
