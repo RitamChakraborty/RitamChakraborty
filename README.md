@@ -281,9 +281,11 @@
 
 - [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me. 
 - [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 years old *Hero Ranger* recently. Have great memories with it. 
+- [x] 📰 Enjoy solving *Sudoku* from newspaper.
+- [x] 🛋️ Have a knack for *Interiror Designing*.
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
-- [x] 😏 And of course smug smiling with my girlfriend [𝗦♡𝗵♡𝘂♡𝗸♡𝘁♡𝗶♡𝗸♡𝗮](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
+- [x] 😏 And of course smug smiling with my girlfriend [♡ 𝗦𝗵𝘂𝗸𝘁𝗶𝗸𝗮 ♡](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
 
 <br>
 <hr>
