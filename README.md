@@ -280,7 +280,7 @@
 </p>
 
 - [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. Rebuilt my 10 years old *Hero Ranger* recently. Have great memories with it. 
+- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it in long roads.
 - [x] 📰 Enjoy solving *Sudoku* from newspaper.
 - [x] 🛋️ Have a knack for *Interiror Designing*.
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
