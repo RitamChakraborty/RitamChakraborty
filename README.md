@@ -50,8 +50,7 @@
 
 ### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *𝖢𝗅𝗈𝗎𝖽*.
 
-### ⌨️ 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 𝕀 𝕊ℙ𝔼𝔸𝕂
-
+### ⌨️ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸𝑆 𝐼 𝑆𝑃𝐸𝐴𝐾
 <br>
 
 <p align="center">
@@ -95,7 +94,7 @@
 
 <br>
 
-### 🥋 𝕄𝔸ℝ𝕋𝕀𝔸𝕃 𝔸ℝ𝕋𝕊 𝕀 𝕂ℕ𝕆𝕎
+### 🥋 𝑀𝐴𝑅𝑇𝐼𝐴𝐿 𝐴𝑅𝑇𝑆 𝐼 𝐾𝑁𝑂𝑊
 
 <br>
 
@@ -146,7 +145,7 @@
 
 <br>
 
-### 🗄️ ℙ𝕃𝔸ℂ𝔼𝕊 𝕎ℍ𝔼ℝ𝔼 𝕀 𝕂𝔼𝔼ℙ 𝕄𝕐 𝕊𝕋𝕌𝔽𝔽
+### 🗄️ 𝑃𝐿𝐴𝐶𝐸𝑆 𝑊𝐻𝐸𝑅𝐸 𝐼 𝐾𝐸𝐸𝑃 𝑀𝑌 𝑆𝑇𝑈𝐹𝐹
 
 <br>
 
@@ -180,7 +179,7 @@
 
 <br>
 
-### 🛠️ 𝕋𝕆𝕆𝕃𝕊 𝕆𝔽 𝕄𝕐 𝕎𝕆ℝ𝕂𝕊ℍ𝕆ℙ
+### 🛠️ 𝑇𝑂𝑂𝐿𝑆 𝑂𝐹 𝑀𝑌 𝑊𝑂𝑅𝐾𝑆𝐻𝑂𝑃
 
 <br>
 
@@ -280,8 +279,7 @@
 </p>
 
 - [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it in long roads.
-- [x] 📰 Enjoy solving *Sudoku* from newspaper.
+- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it in long road- [x] 📰 Enjoy solving *Sudoku* from newspaper.
 - [x] 🛋️ Have a knack for *Interiror Designing*.
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
