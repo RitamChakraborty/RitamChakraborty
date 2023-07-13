@@ -326,6 +326,42 @@
 </details>
 
 <br>
+
+<h3 align="center"><b>𝐎𝐓𝐇𝐄𝐑 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒</b></h3>
+
+<br>
+
+<p align="center">
+  <a href="https://ritamchakraborty.github.io/">
+      <img src="https://img.shields.io/badge/Website-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF
+" alt="Website" hspace="5" vspace="10">
+  </a>
+  <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
+      <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF
+" alt="Stack Overflow" hspace="5" vspace="10">
+  </a>
+  <a href="https://www.hackerrank.com/RitamChakraborty">
+      <img src="https://img.shields.io/badge/HackerRank-14ab4a?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF
+" alt="Hacker Rank" hspace="5" vspace="5">
+  </a>
+  <a href="https://www.hackerearth.com/@ritam38">
+      <img src="https://img.shields.io/badge/HackerEarth-2b3353?style=for-the-badge&logo=hackerearth&logoColor=FFFFFF
+" alt="Hacker Earth" hspace="5" vspace="5">
+  </a>
+  <a href="https://www.codechef.com/users/ritamc">
+      <img src="https://img.shields.io/badge/CodeChef-713d1c?style=for-the-badge&logo=codechef&logoColor=FFFFFF
+" alt="Code Chef" hspace="5" vspace="5">
+  </a>
+  <a href="https://www.codewars.com/users/RitamChakraborty">
+      <img src="https://img.shields.io/badge/CodeWars-b1361e?style=for-the-badge&logo=codewars&logoColor=FFFFFF
+" alt="Code Wars" hspace="5" vspace="5">
+  </a>
+  <a href="https://www.codingame.com/profile/c0d0fea09a8478ccb3c1080f3604a10d9705193">
+      <img src="https://img.shields.io/badge/Coding Game-f2bb13?style=for-the-badge&logo=codingame&logoColor=ffffff" alt="Coding Games" hspace="5" vspace="5">
+  </a>
+</p>
+
+<br>
 <hr>
 
 <p align="center">
