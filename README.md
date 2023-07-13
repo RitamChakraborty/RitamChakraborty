@@ -333,7 +333,10 @@
 
 <p align="center">
   <a href="https://ritamchakraborty.github.io/">
-      <img src="https://img.shields.io/badge/Website-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF" alt="Website" hspace="5" vspace="10">
+      <img src="https://img.shields.io/badge/Portfolio-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF" alt="Portfolio" hspace="5" vspace="10">
+  </a>
+  <a href="https://codepen.io/RitamChakraborty">
+      <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="10">
   </a>
   <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
       <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF" alt="Stack Overflow" hspace="5" vspace="10">
