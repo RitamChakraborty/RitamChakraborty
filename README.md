@@ -325,8 +325,6 @@
   </p>
 </details>
 
-<br>
-
 <h3 align="center"><b>𝐎𝐓𝐇𝐄𝐑 𝐏𝐑𝐎𝐅𝐈𝐋𝐄𝐒</b></h3>
 
 <br>
