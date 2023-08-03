@@ -339,6 +339,12 @@
   <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
       <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF" alt="Stack Overflow" hspace="5" vspace="10">
   </a>
+  <a href="https://leetcode.com/RitamChakraborty/">
+      <img src="https://img.shields.io/badge/LeetCode-5e4e26?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="Leet Code" hspace="5" vspace="5">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/ritamchakraborty/">
+      <img src="https://img.shields.io/badge/GeeksForGeeks-0e3a1b?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" alt="Geeks For Geeks" hspace="5" vspace="5">
+  </a>
   <a href="https://www.hackerrank.com/RitamChakraborty">
       <img src="https://img.shields.io/badge/HackerRank-14ab4a?style=for-the-badge&logo=hackerrank&logoColor=FFFFFF" alt="Hacker Rank" hspace="5" vspace="5">
   </a>
