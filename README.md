@@ -127,6 +127,10 @@
   <a href="https://www.solidjs.com#gh-dark-mode-only">
     <img src="./assets/frameworks/solidjs-dark.svg#gh-dark-mode-only" alt="SolidJS" height="60" hspace="10" >
   </a>
+  <!-- Astro -->
+  <a href="https://astro.build">
+    <img src="./assets/frameworks/astro.svg" alt="Astro" height="60" hspace="10" >
+  </a>
   <!-- Deno -->
   <a href="https://deno.land#gh-light-mode-only">
     <img src="./assets/frameworks/deno-light.svg#gh-light-mode-only" alt="Deno" height="60" hspace="10" >
