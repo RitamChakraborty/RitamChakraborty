@@ -30,7 +30,7 @@
 
 ### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
-- 🏢 Currently working in [Cresen Solutions](https://cresensolutions.com/) as a *Software Engineer*.
+- 🏢 Currently working in [eXp Realty](https://exprealty.com/)🏢 as a *Software Engineer*.
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
 - 🏫 Went to [Midnapore Collegiate School](http://midnaporecollegiateschool.org.in).
 
@@ -225,10 +225,17 @@
 <br>
 <br>
 
-<a href="https://www.deepin.org/en">
-  <img src="./assets/tools/deepin.png" alt="Deepin" height="45" hspace="20">
-</a>
-<span>𝖲𝗍𝖺𝗋𝗍𝖾𝖽 𝗐𝗂𝗍𝗁 <i>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</i>. 𝖳𝗁𝖾𝗇 𝗌𝗐𝗂𝗍𝖼𝗁𝖾𝖽 𝗍𝗈 <i>𝖴𝖻𝗎𝗇𝗍𝗎</i>. 𝖳𝗁𝖺𝗍 𝗐𝖺𝗌 𝗆𝗒 𝖿𝗂𝗋𝗌𝗍 𝗂𝗇𝗍𝗋𝗈𝖽𝗎𝖼𝗍𝗂𝗈𝗇 𝗍𝗈 𝖫𝗂𝗇𝗎𝗑. 𝖥𝗂𝗇𝖺𝗅𝗅𝗒 𝖿𝗈𝗎𝗇𝖽 𝗈𝗎𝗍 𝖺𝖻𝗈𝗎𝗍 <b>𝖣𝖾𝖾𝗉𝗂𝗇</b>, 𝖺𝗇𝖽 𝖨 𝗂𝗇𝗌𝗍𝖺𝗇𝗍𝗅𝗒 𝖿𝖾𝗅𝗅 𝗂𝗇 𝗅𝗈𝗏𝖾 𝗐𝗂𝗍𝗁 𝗂𝗍. 𝖠𝗇𝖽 𝖽𝗈𝗇'𝗍 𝗁𝖺𝗏𝖾 𝗉𝗅𝖺𝗇𝗌 𝗍𝗈 𝗁𝗈𝗉 𝖺𝗇𝗒 𝗍𝗂𝗆𝖾 𝗌𝗈𝗈𝗇. 😌</span>
+<p>
+  <a href="https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g15-2022-series/">
+    <img src="./assets/tools/rog.png" alt="Rog" height="45" hspace="5">
+  </a>
+  <span>
+    I daily drive <i>ASUS ROG Zephyrus G15 (2022)</i> Moonlight White edition, 
+    with a AMD Ryzen 9 6900HS, Nvidia RTX 3070ti, 1440p 240hz display. Although,
+    it's embarrassing to say I'm not much of a gamer. 😅
+  </span>
+</p>
+
 
 <br>
 <br>
