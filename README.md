@@ -30,7 +30,7 @@
 
 ### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
-- 🏢 Currently working in [eXp Realty](https://exprealty.com/)🏢 as a *Software Engineer*.
+- 🏢 Currently working in [eXp Realty](https://exprealty.com/) as a *Software Engineer*. Previously worked at [Cresen Solutions](https://cresensolutions.com/) and [Cognizant](https://www.cognizant.com/).
 - 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
 - 🏫 Went to [Midnapore Collegiate School](http://midnaporecollegiateschool.org.in).
 
@@ -297,8 +297,9 @@
 </p>
 
 - [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it in long road- [x] 📰 Enjoy solving *Sudoku* from newspaper.
-- [x] 🛋️ Have a knack for *Interiror Designing*.
+- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it on long road.
+- [x] 📰 Enjoy solving *Sudoku* from newspaper.
+- [x] 🛋️ Have a knack for *Interior Designing*.
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
 - [x] 😏 And of course smug smiling with my girlfriend [♡ 𝗦𝗵𝘂𝗸𝘁𝗶𝗸𝗮 ♡](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
