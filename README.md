@@ -309,16 +309,19 @@
 
 <p align="center">
   <a href="mailto:mailbox.ritamchakraborty@gmail.com">
-    <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="25">
+    <img src="./assets/talk/gmail.png" alt="Gmail" height="70" hspace="15">
   </a>
   <a href="https://www.linkedin.com/in/ritamchakraborty/">
-    <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="25">
+    <img src="./assets/talk/linkedin.png" alt="LinkedIn" height="70" hspace="15">
   </a>
   <a href="https://discord.com/users/ritamchakraborty">
-    <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="25">
+    <img src="./assets/talk/discord.png" alt="Discord" height="70" hspace="15">
   </a>
   <a href="https://t.me/RITAM_CHAKRAB0RTY">
-    <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="25">
+    <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="15">
+  </a>
+  <a href="https://www.reddit.com/user/ritam_chakraborty/">
+    <img src="./assets/talk/reddit.png" alt="Reddit" height="70" hspace="15">
   </a>
 </p>
 
