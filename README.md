@@ -353,19 +353,19 @@
 
 <p align="center">
   <a href="https://ritamchakraborty.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF" alt="Portfolio" hspace="5" vspace="10">
+      <img src="https://img.shields.io/badge/Portfolio-176BEF?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF&labelColor=17HBEF" alt="Portfolio" hspace="5" vspace="5">
   </a>
   <a href="https://leetcode.com/RitamChakraborty/">
       <img src="https://img.shields.io/badge/LeetCode-5e4e26?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="Leet Code" hspace="5" vspace="5">
   </a>
   <a href="https://codepen.io/RitamChakraborty">
-      <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="10">
+      <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
   </a>
   <a href="https://cssbattle.dev/player/ritam">
-      <img src="https://img.shields.io/badge/CSSBattle-ffdf00?style=for-the-badge&logo=cssbattle&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="10">
+      <img src="https://img.shields.io/badge/CSSBattle-ffdf00?style=for-the-badge&logo=cssbattle&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
   </a>
   <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
-      <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF" alt="Stack Overflow" hspace="5" vspace="10">
+      <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF" alt="Stack Overflow" hspace="5" vspace="5">
   </a>
   <a href="https://auth.geeksforgeeks.org/user/ritamchakraborty/">
       <img src="https://img.shields.io/badge/GeeksForGeeks-0e3a1b?style=for-the-badge&logo=geeksforgeeks&logoColor=FFFFFF" alt="Geeks For Geeks" hspace="5" vspace="5">
