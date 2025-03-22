@@ -197,6 +197,29 @@
 
 <br>
 
+### ☁️ 𝐶𝐿𝑂𝑈𝐷𝑆 𝑇𝐻𝐴𝑇 𝐼 𝐹𝐿𝐸𝑊 𝑇𝐻𝑅𝑂𝑈𝐺𝐻 
+
+<br>
+
+<p align="center">
+  <!-- AWS -->
+  <a href="https://aws.amazon.com#gh-light-mode-only">
+    <img src="./assets/clouds/aws-light.svg#gh-light-mode-only" alt="AWS" height="60" hspace="10" >
+  </a>
+  <a href="https://aws.amazon.com#gh-dark-mode-only">
+    <img src="./assets/clouds/aws-dark.svg#gh-dark-mode-only" alt="AWS" height="60" hspace="10" >
+  </a>
+  <!-- GCP -->
+  <a href="https://console.cloud.google.com#gh-light-mode-only">
+    <img src="./assets/clouds/gcp-light.svg#gh-light-mode-only" alt="GCP" height="60" hspace="10" >
+  </a>
+  <a href="https://console.cloud.google.com#gh-dark-mode-only">
+    <img src="./assets/clouds/gcp-dark.svg#gh-dark-mode-only" alt="GCP" height="60" hspace="10" >
+  </a>
+</p>
+
+<br>
+
 ### 🛠️ 𝑇𝑂𝑂𝐿𝑆 𝑂𝐹 𝑀𝑌 𝑊𝑂𝑅𝐾𝑆𝐻𝑂𝑃
 
 <br>
