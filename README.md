@@ -48,7 +48,7 @@
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
-### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *𝖢𝗅𝗈𝗎𝖽*.
+### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *AI*.
 
 ### ⌨️ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸𝑆 𝐼 𝑆𝑃𝐸𝐴𝐾
 <br>
@@ -65,7 +65,7 @@
   <a href="https://kotlinlang.org#gh-light-mode-only">
     <img src="./assets/languages/kotlin-light.svg#gh-light-mode-only" alt="Kotlin" alt="Java" height="60" hspace="10" />
   </a>
-  <a href="https://kotlinlang.org/#gh-dark-mode-only">
+  <a href="https://kotlinlang.org#gh-dark-mode-only">
     <img src="./assets/languages/kotlin-dark.svg#gh-dark-mode-only" alt="Kotlin" height="60" hspace="10" />
   </a>
   <!-- JavaScript -->
@@ -130,6 +130,20 @@
   <!-- Astro -->
   <a href="https://astro.build">
     <img src="./assets/frameworks/astro.svg" alt="Astro" height="60" hspace="10" >
+  </a>
+  <!-- Express -->
+  <a href="https://expressjs.com#gh-light-mode-only">
+    <img src="./assets/frameworks/express-light.svg#gh-light-mode-only" alt="Express" height="60" hspace="10" >
+  </a>
+  <a href="https://expressjs.com#gh-dark-mode-only">
+    <img src="./assets/frameworks/express-dark.svg#gh-dark-mode-only" alt="Express" height="60" hspace="10" >
+  </a>
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/en#gh-light-mode-only">
+    <img src="./assets/frameworks/node-light.svg#gh-light-mode-only" alt="NodeJS" height="60" hspace="10" >
+  </a>
+  <a href="https://nodejs.org/en#gh-dark-mode-only">
+    <img src="./assets/frameworks/node-dark.svg#gh-dark-mode-only" alt="NodeJS" height="60" hspace="10" >
   </a>
   <!-- Deno -->
   <a href="https://deno.land#gh-light-mode-only">
