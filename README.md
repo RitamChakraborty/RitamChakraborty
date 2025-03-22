@@ -328,9 +328,6 @@
   <a href="https://t.me/RITAM_CHAKRAB0RTY">
     <img src="./assets/talk/telegram.png" alt="Telegram" height="69" hspace="15">
   </a>
-  <a href="https://www.reddit.com/user/ritam_chakraborty/">
-    <img src="./assets/talk/reddit.png" alt="Reddit" height="70" hspace="15">
-  </a>
 </p>
 
 <br>
