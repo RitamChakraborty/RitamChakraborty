@@ -440,7 +440,7 @@
   <a href="./CREDITS.md" target="_blank">
     <img src="./assets/buttons/credits-btn.svg" alt="Credits">
   </a>
-  <a href="https://github.com/RitamChakraborty/RitamChakraborty.github.io/blob/master/public/documents/Resume.pdf" target="_blank">
+  <a href="./RESUME.md" target="_blank">
     <img align="right" src="./assets/buttons/resume-btn.svg" alt="Resume">
   </a>
 </p>
