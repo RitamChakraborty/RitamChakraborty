@@ -5,7 +5,7 @@
 [postbox.ritamchakraborty@gmail.com](mailto:postbox.ritamchakraborty@gmail.com) • [+91 8945008966](tel:+918945008966) • [Newtown, Kolkata](https://maps.app.goo.gl/Y2TqxJSoU4QjnWTP6) • [LinkedIn](https://www.linkedin.com/in/ritamchakraborty/) • [GitHub](https://github.com/RitamChakraborty) • [Website](https://ritamchakraborty.github.io) • [LeetCode](https://leetcode.com/RitamChakraborty/)
 
 <!-- Bio -->
-Engineering Lead with 5+ years of experience specialized in architecting high-throughput backend systems (Node.js, AWS, Kafka) and deploying AI driven voice platforms. I have a proven track record of leading teams to deliver scalable infrastructure by significantly reduces operational costs.
+Engineering Lead with 5+ years of experience specialized in architecting high-throughput backend systems (Node.js, AWS, Kafka) and deploying AI driven voice platforms. I have a proven track record of leading teams to deliver scalable infrastructure by significantly reducing operational costs.
 
 ## Experience
 
@@ -31,7 +31,7 @@ Engineering Lead with 5+ years of experience specialized in architecting high-th
 * Designed and implemented a secure two-factor authentication (2FA) flow to enhance user account security.
 * Optimized UI for mobile devices.
 * Majority of the refactoring was done for Angular 14 upgrade, the application was in 2.0.
-* Collaborated on technical hiring, successfully identifying and interviewing candidates for engineering roles 2 of them are now serving full time positions.
+* Collaborated on technical hiring, successfully identifying and interviewing candidates for engineering roles, 2 of them are now serving full time positions.
 
 ### Cognizant | Junior Product Specialist
 
@@ -45,10 +45,10 @@ Engineering Lead with 5+ years of experience specialized in architecting high-th
 
 **Languages:** Javascript, Typescript, Java, Dart, Python
 
-**Frameworks:** Node.js, Fastify, Angular, Spring Boot, React, HTML, CSS
+**Frameworks:** Node.js, Fastify, Angular, Spring Boot, React
 
 **Tools:** Git, Docker, Kafka, AWS, Twilio, SQL
 
 ## Education
 
-Bachelors in B. Tech from Techno India University with 8.46 CGPA. Graduated in 2020.
+B. Tech in Computer Science & Engineering from Techno India University with 8.46 CGPA. Graduated in 2020.

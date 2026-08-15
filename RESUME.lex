@@ -116,7 +116,7 @@
 \end{center}
 
 \section{summary}
-    \small Engineering Lead with 5+ years of experience architecting high-throughput backend systems (Node.js, AWS, Kafka) and deploying AI-driven voice platforms. Proven track record of leading cross-functional teams to deliver scalable infrastructure that automates workflows and significantly reduces operational costs.
+    \small Engineering Lead with 5+ years of experience architecting high-throughput backend systems (Node.js, AWS, Kafka) and deploying AI-driven voice platforms. Proven track record of leading cross-functional teams to deliver scalable infrastructure that automates workflows and significantly reducing operational costs.
 
 %-----------EXPERIENCE-----------
 \section{Experience}
@@ -164,7 +164,7 @@
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
      \textbf{Languages}{: JavaScript, TypeScript, Java, Dart, Python} \\
-     \textbf{Frameworks}{: Node.js, Fastify, Angular, Spring Boot, React, HTML, CSS} \\
+     \textbf{Frameworks}{: Node.js, Fastify, Angular, Spring Boot, React} \\
      \textbf{Tools}{: Git, Docker, Kafka, AWS, Twilio, SQL}
     }}
  \end{itemize}
@@ -174,7 +174,7 @@
   \resumeSubHeadingListStart
     \resumeSubheading
       {Techno India University}{Saltlake, Kolkata}
-      {B.Tech in Computer Science Engineering with 8.46 CGPA}{Aug. 2016 -- Jul. 2020}
+      {B.Tech in Computer Science & Engineering with 8.46 CGPA}{Aug. 2016 -- Jul. 2020}
   \resumeSubHeadingListEnd
 
 
