@@ -30,8 +30,8 @@
 
 ### 𝖨'𝗆 𝖺 𝖲𝗈𝖿𝗍𝗐𝖺𝗋𝖾 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋 𝖿𝗋𝗈𝗆 𝖬𝗂𝖽𝗇𝖺𝗉𝗈𝗋𝖾, 𝗅𝗈𝗈𝗄𝗂𝗇𝗀 𝖿𝗈𝗋𝗐𝖺𝗋𝖽 𝗍𝗈 𝖾𝗆𝖾𝗋𝗀𝖾 𝖺𝗌 𝖺 **𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋**.
 
-- 🏢 Currently working in [eXp Realty](https://exprealty.com/) as a *Software Engineer*. Previously worked at [Cresen Solutions](https://cresensolutions.com/) and [Cognizant](https://www.cognizant.com/).
-- 🎓 Completed my Bachelors in *CS* from [Techno India University](https://www.technoindiauniversity.ac.in/).
+- 🏢 Currently working in [eXp Realty](https://exprealty.com/) as a _Software Engineer_. Previously worked at [Cresen Solutions](https://cresensolutions.com/) and [Cognizant](https://www.cognizant.com/).
+- 🎓 Completed my Bachelors in _CS_ from [Techno India University](https://www.technoindiauniversity.ac.in/).
 - 🏫 Went to [Midnapore Collegiate School](http://midnaporecollegiateschool.org.in).
 
 > 𝙸'𝚖 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎, 𝚊𝚗𝚍 𝚖𝚊𝚔𝚎 𝚏𝚛𝚒𝚎𝚗𝚍𝚜 𝚠𝚑𝚒𝚕𝚎 𝚍𝚘𝚒𝚗𝚐 𝚜𝚘! 😇
@@ -48,9 +48,10 @@
     <img src="./assets/cats/typing-dark.gif#gh-dark-mode-only" alt="typing-cat" height="170" width="200" />
 </p>
 
-### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 *𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍* 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 *AI*.
+### 𝖨'𝗆 𝖿𝗈𝖼𝗎𝗌𝗂𝗇𝗀 𝗈𝗇 𝗂𝗇𝖼𝗋𝖾𝖺𝗌𝗂𝗇𝗀 𝗆𝗒 𝗄𝗇𝗈𝗐𝗅𝖾𝖽𝗀𝖾 𝗂𝗇 𝗍𝖾𝖼𝗁𝗇𝗈𝗅𝗈𝗀𝗂𝖾𝗌 𝗂𝗇𝗏𝗈𝗅𝗏𝗂𝗇𝗀 _𝖥𝗎𝗅𝗅𝗌𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍_ 𝖺𝗇𝖽 𝗀𝖾𝗍𝗍𝗂𝗇𝗀 𝗂𝗇𝗏𝖾𝗌𝗍𝖾𝖽 𝗂𝗇 _AI_.
 
 ### ⌨️ 𝐿𝐴𝑁𝐺𝑈𝐴𝐺𝐸𝑆 𝐼 𝑆𝑃𝐸𝐴𝐾
+
 <br>
 
 <p align="center">
@@ -197,7 +198,7 @@
 
 <br>
 
-### ☁️ 𝐶𝐿𝑂𝑈𝐷𝑆 𝑇𝐻𝐴𝑇 𝐼 𝐹𝐿𝐸𝑊 𝑇𝐻𝑅𝑂𝑈𝐺𝐻 
+### ☁️ 𝐶𝐿𝑂𝑈𝐷𝑆 𝑇𝐻𝐴𝑇 𝐼 𝐹𝐿𝐸𝑊 𝑇𝐻𝑅𝑂𝑈𝐺𝐻
 
 <br>
 
@@ -280,7 +281,6 @@
   </span>
 </p>
 
-
 <br>
 <br>
 <hr>
@@ -294,9 +294,19 @@
 </p>
 
 <p align="center">
-
+<p align="center">
+    <img src="https://trophy.ryglcloud.net/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=15&column=-1&theme=flat&title=Commits">
+  </p>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=city-lights&date_format=j%20M%5B%20Y%5D&border=8B8B8B50&background=DD272700&stroke=FF131300&ring=D8FF55&fire=FFD739&currStreakNum=8F71EF&sideNums=C19AF3&currStreakLabel=00BE33&sideLabels=24BB70" alt="GitHub Streak" />
+    <img src ="https://trophy.ryglcloud.net/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=20&column=-1&theme=flat&title=MultiLanguage,Repositories">
+  </p>
+  <p align="center">
+    <img src ="https://trophy.ryglcloud.net/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=flat&title=Stars">
+    <img src ="https://trophy.ryglcloud.net/?username=RitamChakraborty&no-bg=true&no-frame=true&column=-1&theme=flat&title=Issues,PullRequest">
+    <img src ="https://trophy.ryglcloud.net/?username=RitamChakraborty&no-bg=true&no-frame=true&margin-w=25&column=-1&theme=flat&title=Followers">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitamChakraborty&theme=transparent&mode=weekly" alt="GitHub Streak" />
   </p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/RitamChakraborty/github-stats-transparent/cab02d3b4d9de44c4cc058b3d516a093ab46f6bb/generated/overview.svg" alt="visit-counter" height="200">
@@ -323,10 +333,10 @@
     <img src="./assets/cats/drink-dark.gif#gh-dark-mode-only" alt="drinking-cat" height="220" width="212" />
 </p>
 
-- [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me. 
-- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old *Hero Ranger* and had quality time with it on long road.
-- [x] 📰 Enjoy solving *Sudoku* from newspaper.
-- [x] 🛋️ Have a knack for *Interior Designing*.
+- [x] ☕ Programming while drinking **B̾o̾u̾r̾n̾v̾i̾t̾a̾** is the ultimate fun for me.
+- [x] 🚲 Cycling is my favorite sport. I've rebuilt my old _Hero Ranger_ and had quality time with it on long road.
+- [x] 📰 Enjoy solving _Sudoku_ from newspaper.
+- [x] 🛋️ Have a knack for _Interior Designing_.
 - [x] 🍿 Sucker for thriller movies. Big fan of **Natalie Portman**. 😍
 - [x] ♻️ Love to recycle stuff, specially electronics.
 - [x] 😏 And of course smug smiling with my girlfriend [♡ 𝗦𝗵𝘂𝗸𝘁𝗶𝗸𝗮 ♡](https://github.com/Shuktika15) who made a valuable contribution in making this README. Love you as always sweetie. 😘
@@ -382,12 +392,6 @@
   <a href="https://leetcode.com/RitamChakraborty/">
       <img src="https://img.shields.io/badge/LeetCode-5e4e26?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="Leet Code" hspace="5" vspace="5">
   </a>
-  <a href="https://codepen.io/RitamChakraborty">
-      <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
-  </a>
-  <a href="https://cssbattle.dev/player/ritam">
-      <img src="https://img.shields.io/badge/CSSBattle-ffdf00?style=for-the-badge&logo=cssbattle&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
-  </a>
   <a href="https://stackoverflow.com/users/10644028/ritam-chakraborty">
       <img src="https://img.shields.io/badge/StackOverflow-F47F24?style=for-the-badge&logo=stack-overflow&logoColor=FFFFFF" alt="Stack Overflow" hspace="5" vspace="5">
   </a>
@@ -407,7 +411,16 @@
       <img src="https://img.shields.io/badge/CodeWars-b1361e?style=for-the-badge&logo=codewars&logoColor=FFFFFF" alt="Code Wars" hspace="5" vspace="5">
   </a>
   <a href="https://www.codingame.com/profile/c0d0fea09a8478ccb3c1080f3604a10d9705193">
-      <img src="https://img.shields.io/badge/Coding Game-f2bb13?style=for-the-badge&logo=codingame&logoColor=ffffff" alt="Coding Games" hspace="5" vspace="5">
+      <img src="https://img.shields.io/badge/codingame-f2bb13?style=for-the-badge&logo=codingame&logoColor=ffffff" alt="Coding Games" hspace="5" vspace="5">
+  </a>
+  <a href="https://monkeytype.com/profile/RitamChakraborty">
+      <img src="https://img.shields.io/badge/monkeytype-323437?style=for-the-badge&logo=monkeytype&logoColor=ffffff" alt="Coding Games" hspace="5" vspace="5">
+  </a>
+    <a href="https://codepen.io/RitamChakraborty">
+      <img src="https://img.shields.io/badge/codepen-1e1f26?style=for-the-badge&logo=codepen&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
+  </a>
+  <a href="https://cssbattle.dev/player/ritam">
+      <img src="https://img.shields.io/badge/CSSBattle-ffdf00?style=for-the-badge&logo=cssbattle&logoColor=FFFFFF" alt="Code Pen" hspace="5" vspace="5">
   </a>
 </p>
 
