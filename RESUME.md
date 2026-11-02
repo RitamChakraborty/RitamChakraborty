@@ -5,7 +5,7 @@
 [postbox.ritamchakraborty@gmail.com](mailto:postbox.ritamchakraborty@gmail.com) • [+91 8945008966](tel:+918945008966) • [Newtown, Kolkata](https://maps.app.goo.gl/Y2TqxJSoU4QjnWTP6) • [LinkedIn](https://www.linkedin.com/in/ritamchakraborty/) • [GitHub](https://github.com/RitamChakraborty) • [Website](https://ritamchakraborty.github.io) • [LeetCode](https://leetcode.com/RitamChakraborty/)
 
 <!-- Bio -->
-Engineering Lead with 5+ years of experience specialized in architecting high-throughput backend systems (Node.js, AWS, Kafka) and deploying AI driven voice platforms. I have a proven track record of leading teams to deliver scalable infrastructure by significantly reducing operational costs.
+Engineering Lead with 6+ years of experience specialized in architecting high-throughput backend systems (Node.js, AWS, Kafka) and deploying AI driven voice platforms. I have a proven track record of leading teams to deliver scalable infrastructure by significantly reducing operational costs.
 
 ## Experience
 
@@ -13,7 +13,7 @@ Engineering Lead with 5+ years of experience specialized in architecting high-th
 
 > **Jan, 2024 – Present ~ Remote**
 
-* Lead a team of 6 engineers to manage voice concierge services within the Twilio ecosystem for a US-based real estate company.
+* Lead a team of 4 engineers to manage voice concierge services within the Twilio ecosystem for a US-based real estate company.
 * Architected a backend system from scratch using Fastify and Node.js, handling 4,500+ calls and 2,000+ messages daily; utilizing Kafka for pub-sub messaging and Redis for session management and caching.
 * Refactored the frontend by consolidating 15+ separate plugins into a single, modular, feature-flagged Twilio Flex plugin, incorporating robust authentication and authorization.
 * Reduced post-call documentation time for agents by 99% (from 10 minutes to 5 seconds) by implementing real-time call transcription and summarization, saving the company $25k per month. On top of that built a dashboard for monitoring call sentiments.
